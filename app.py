@@ -49,17 +49,13 @@ with tab2:
 
     if uploaded_file:
         try:
-            # Load the data
             data = pd.read_csv(uploaded_file)
 
-            # 1. Smart Column Detection
             all_columns = data.columns.tolist()
             potential_cols = [c for c in all_columns if any(k in str(c).lower() for k in ['text', 'msg', 'comment', 'content', 'chat', 'body'])]
 
-            # 2. UI for Column Selection
             st.write("---")
             if potential_cols:
-                # Default to the first "smart" guess
                 selected_col = st.selectbox("Confirm the column containing messages:", all_columns, index=all_columns.index(potential_cols[0]))
             else:
                 st.warning("Could not auto-detect the message column. Please select it manually below:")
@@ -67,14 +63,12 @@ with tab2:
 
             if st.button("Run Batch Analysis"):
                 with st.spinner('Analyzing sequences...'):
-                    # Perform the analysis on the chosen column
                     data['Analysis'] = data[selected_col].astype(str).apply(lambda x: model.predict(x)[0])
                     st.session_state['audit_data'] = data
                     st.session_state['active_col'] = selected_col
 
                 st.success(f"Analysis complete on column: **{selected_col}**")
 
-                # Show a preview of flags
                 toxic_only = data[data['Analysis'] == 'TOXIC']
                 if not toxic_only.empty:
                     st.markdown("##### Detected Toxicity Preview")
