@@ -1,0 +1,1001 @@
+message_id,timestamp,platform,user_id,message,toxicity_score,label,flagged
+MSG00001,2024-07-25 12:12:38,Twitter,user_0065,Everyone thinks you're pathetic.,0.74,toxic,True
+MSG00002,2024-07-15 16:43:44,Telegram,user_0185,I'm so frustrated with this product.,0.54,borderline,True
+MSG00003,2024-11-09 18:13:50,YouTube,user_0055,What time does the meeting start?,0.32,clean,False
+MSG00004,2024-03-18 14:42:11,YouTube,user_0136,What time does the meeting start?,0.03,clean,False
+MSG00005,2024-12-12 02:30:20,Telegram,user_0053,I hate waiting so long for replies.,0.56,borderline,True
+MSG00006,2024-07-04 17:05:29,Twitter,user_0092,This is the worst app I've ever used.,0.58,borderline,True
+MSG00007,2024-03-07 06:58:45,Discord,user_0129,I can't stand your ugly face.,0.88,toxic,True
+MSG00008,2024-12-04 05:02:07,Telegram,user_0021,"You make me sick, stop talking.",0.91,toxic,True
+MSG00009,2024-08-05 20:05:09,Discord,user_0134,"You are such an idiot, get out of here!",0.81,toxic,True
+MSG00010,2024-07-26 06:57:50,Reddit,user_0140,I need help with this task.,0.08,clean,False
+MSG00011,2024-07-25 04:22:44,YouTube,user_0154,This service is pretty bad honestly.,0.44,borderline,False
+MSG00012,2024-03-18 19:26:07,Discord,user_0105,You are a complete waste of space.,0.79,toxic,True
+MSG00013,2024-03-15 06:56:35,Reddit,user_0031,"You make me sick, stop talking.",0.94,toxic,True
+MSG00014,2024-07-04 05:43:04,Twitter,user_0087,This service is pretty bad honestly.,0.57,borderline,True
+MSG00015,2024-04-20 12:25:21,Reddit,user_0137,Looking forward to the weekend.,0.15,clean,False
+MSG00016,2024-02-17 05:56:02,Telegram,user_0059,Can we reschedule for tomorrow?,0.33,clean,False
+MSG00017,2024-06-08 20:14:41,YouTube,user_0081,Thanks for the help earlier!,0.34,clean,False
+MSG00018,2024-04-21 22:43:45,Twitter,user_0113,I hope you suffer for what you did.,0.83,toxic,True
+MSG00019,2024-08-03 08:04:32,Facebook,user_0033,You are so freaking dumb it hurts.,0.94,toxic,True
+MSG00020,2024-05-11 13:56:18,Telegram,user_0174,I'm so frustrated with this product.,0.45,borderline,False
+MSG00021,2024-12-13 19:55:39,Reddit,user_0051,Please review my pull request.,0.08,clean,False
+MSG00022,2024-06-25 00:42:22,YouTube,user_0171,Let me know if you need anything.,0.08,clean,False
+MSG00023,2024-03-28 20:16:42,Reddit,user_0169,This is the worst app I've ever used.,0.52,borderline,True
+MSG00024,2024-07-23 00:07:32,YouTube,user_0192,This service is pretty bad honestly.,0.55,borderline,True
+MSG00025,2024-03-26 16:50:51,YouTube,user_0107,This is the worst app I've ever used.,0.48,borderline,False
+MSG00026,2024-08-27 17:33:40,Facebook,user_0197,I need help with this task.,0.32,clean,False
+MSG00027,2024-05-27 06:47:01,Facebook,user_0009,This is an amazing opportunity.,0.12,clean,False
+MSG00028,2024-01-30 13:19:23,Facebook,user_0148,I need help with this task.,0.37,clean,False
+MSG00029,2024-05-31 06:48:06,Discord,user_0068,This is an amazing opportunity.,0.15,clean,False
+MSG00030,2024-08-23 10:08:56,YouTube,user_0180,I can't stand your ugly face.,0.96,toxic,True
+MSG00031,2024-07-18 13:35:45,Telegram,user_0147,You're a disgusting human being.,0.76,toxic,True
+MSG00032,2024-12-24 12:11:52,YouTube,user_0122,Please review my pull request.,0.22,clean,False
+MSG00033,2024-12-06 05:04:34,Twitter,user_0085,I can't stand your ugly face.,0.86,toxic,True
+MSG00034,2024-09-09 02:21:41,Reddit,user_0163,Have a great day everyone!,0.27,clean,False
+MSG00035,2024-01-07 18:20:26,Twitter,user_0102,You are a complete waste of space.,0.88,toxic,True
+MSG00036,2024-01-19 01:21:32,Telegram,user_0015,I hope you suffer for what you did.,0.75,toxic,True
+MSG00037,2024-12-22 13:14:51,Reddit,user_0169,"You make me sick, stop talking.",0.75,toxic,True
+MSG00038,2024-07-05 02:35:58,Reddit,user_0168,"You're beyond stupid, learn to think.",0.75,toxic,True
+MSG00039,2024-09-30 02:47:43,Discord,user_0140,You are a complete waste of space.,0.95,toxic,True
+MSG00040,2024-02-14 01:48:32,YouTube,user_0060,Can you send me the report please?,0.14,clean,False
+MSG00041,2024-11-10 19:48:39,YouTube,user_0112,"I hate you so much, you're worthless.",0.97,toxic,True
+MSG00042,2024-04-06 09:11:47,Facebook,user_0188,"You make me sick, stop talking.",0.89,toxic,True
+MSG00043,2024-01-07 07:24:58,Discord,user_0146,Thanks for the help earlier!,0.31,clean,False
+MSG00044,2024-08-15 23:50:38,Discord,user_0043,Thanks for the help earlier!,0.34,clean,False
+MSG00045,2024-08-15 11:16:20,Reddit,user_0041,Have a great day everyone!,0.15,clean,False
+MSG00046,2024-03-08 00:56:18,Telegram,user_0110,I'll be there in 10 minutes.,0.11,clean,False
+MSG00047,2024-02-07 01:22:10,YouTube,user_0084,What time does the meeting start?,0.33,clean,False
+MSG00048,2024-01-18 12:52:17,YouTube,user_0005,The weather is really nice today.,0.06,clean,False
+MSG00049,2024-05-27 23:25:26,Telegram,user_0014,This is the worst app I've ever used.,0.45,borderline,False
+MSG00050,2024-04-18 07:41:16,Twitter,user_0145,I despise everything about you.,0.73,toxic,True
+MSG00051,2024-01-15 06:08:57,Reddit,user_0047,I need help with this task.,0.12,clean,False
+MSG00052,2024-10-23 13:09:00,Telegram,user_0019,"Hey, how are you doing today?",0.2,clean,False
+MSG00053,2024-03-25 18:14:21,Twitter,user_0095,Why is everything always broken here?,0.67,borderline,True
+MSG00054,2024-09-14 05:14:46,Twitter,user_0112,Great job on the presentation.,0.28,clean,False
+MSG00055,2024-11-09 06:57:51,Discord,user_0045,"You make me sick, stop talking.",0.92,toxic,True
+MSG00056,2024-12-17 08:10:41,Facebook,user_0020,"This is garbage, fix it already.",0.67,borderline,True
+MSG00057,2024-04-30 07:33:14,Facebook,user_0019,Looking forward to the weekend.,0.15,clean,False
+MSG00058,2024-05-03 08:20:49,YouTube,user_0008,Please review my pull request.,0.07,clean,False
+MSG00059,2024-01-20 13:03:20,Discord,user_0069,"I hate you so much, you're worthless.",0.9,toxic,True
+MSG00060,2024-12-09 08:00:36,Twitter,user_0041,This is the worst app I've ever used.,0.61,borderline,True
+MSG00061,2024-06-25 12:09:44,Twitter,user_0007,You're a disgusting human being.,0.76,toxic,True
+MSG00062,2024-06-30 07:09:38,Reddit,user_0097,You are the worst person I've ever met.,0.71,toxic,True
+MSG00063,2024-05-05 17:09:49,Discord,user_0088,"You are such an idiot, get out of here!",0.75,toxic,True
+MSG00064,2024-11-13 08:48:04,Telegram,user_0021,Looking forward to the weekend.,0.04,clean,False
+MSG00065,2024-12-20 23:23:31,YouTube,user_0068,Your team is really disappointing me.,0.62,borderline,True
+MSG00066,2024-06-16 22:22:51,Twitter,user_0057,Drop dead already you worthless jerk.,0.77,toxic,True
+MSG00067,2024-05-16 10:39:06,Discord,user_0055,I hope you suffer for what you did.,0.89,toxic,True
+MSG00068,2024-08-14 21:28:33,Telegram,user_0032,You're a disgusting human being.,0.72,toxic,True
+MSG00069,2024-01-10 09:31:48,Telegram,user_0194,This is an amazing opportunity.,0.27,clean,False
+MSG00070,2024-06-13 16:15:38,Twitter,user_0074,I finished the project early.,0.34,clean,False
+MSG00071,2024-07-22 06:04:37,Reddit,user_0153,Please review my pull request.,0.29,clean,False
+MSG00072,2024-02-13 22:01:03,Telegram,user_0050,I need help with this task.,0.05,clean,False
+MSG00073,2024-08-04 21:42:37,Reddit,user_0056,"Hey, how are you doing today?",0.05,clean,False
+MSG00074,2024-04-14 21:40:06,Reddit,user_0047,Get lost you absolute loser.,0.95,toxic,True
+MSG00075,2024-03-10 22:18:11,Discord,user_0193,Thanks for the help earlier!,0.12,clean,False
+MSG00076,2024-08-02 12:40:06,YouTube,user_0041,Drop dead already you worthless jerk.,0.79,toxic,True
+MSG00077,2024-05-20 23:07:02,Telegram,user_0101,Let me know if you need anything.,0.03,clean,False
+MSG00078,2024-03-06 09:38:30,Telegram,user_0065,Drop dead already you worthless jerk.,0.79,toxic,True
+MSG00079,2024-09-13 08:40:11,Facebook,user_0033,Your idea is kind of dumb tbh.,0.46,borderline,False
+MSG00080,2024-09-14 07:39:22,Telegram,user_0038,Thanks for the help earlier!,0.09,clean,False
+MSG00081,2024-10-20 00:21:46,Twitter,user_0003,Looking forward to the weekend.,0.23,clean,False
+MSG00082,2024-08-04 02:27:29,Twitter,user_0199,"You are such an idiot, get out of here!",0.76,toxic,True
+MSG00083,2024-05-03 09:12:07,Discord,user_0143,You're a disgusting human being.,0.91,toxic,True
+MSG00084,2024-12-12 20:12:05,Discord,user_0077,What time does the meeting start?,0.01,clean,False
+MSG00085,2024-07-26 10:32:02,Facebook,user_0090,I hate waiting so long for replies.,0.54,borderline,True
+MSG00086,2024-04-21 11:08:02,YouTube,user_0060,Can we reschedule for tomorrow?,0.36,clean,False
+MSG00087,2024-04-16 20:33:38,Facebook,user_0089,Why is everything always broken here?,0.68,borderline,True
+MSG00088,2024-10-12 05:46:33,Twitter,user_0156,The weather is really nice today.,0.12,clean,False
+MSG00089,2024-10-30 11:09:08,YouTube,user_0143,I don't really like how this works.,0.55,borderline,True
+MSG00090,2024-05-29 11:11:35,Reddit,user_0009,Go kill yourself nobody likes you.,0.92,toxic,True
+MSG00091,2024-12-07 10:27:12,Twitter,user_0122,"Hey, how are you doing today?",0.07,clean,False
+MSG00092,2024-07-19 13:55:34,Telegram,user_0067,This is so freaking annoying!,0.57,borderline,True
+MSG00093,2024-02-23 06:49:22,Twitter,user_0095,You're a disgusting human being.,0.9,toxic,True
+MSG00094,2024-07-18 10:37:15,Reddit,user_0071,Have a great day everyone!,0.26,clean,False
+MSG00095,2024-07-27 04:08:42,YouTube,user_0170,Let me know if you need anything.,0.05,clean,False
+MSG00096,2024-01-14 17:32:34,Facebook,user_0033,Everyone thinks you're pathetic.,0.82,toxic,True
+MSG00097,2024-05-15 09:27:47,Telegram,user_0059,This is so freaking annoying!,0.41,borderline,False
+MSG00098,2024-09-01 20:04:31,Twitter,user_0033,Great job on the presentation.,0.3,clean,False
+MSG00099,2024-08-20 02:59:22,Reddit,user_0199,Can you send me the report please?,0.38,clean,False
+MSG00100,2024-10-01 01:04:00,Twitter,user_0116,Can we reschedule for tomorrow?,0.29,clean,False
+MSG00101,2024-04-13 20:33:48,Twitter,user_0156,This service is pretty bad honestly.,0.46,borderline,False
+MSG00102,2024-04-22 04:40:27,Facebook,user_0118,You are a complete waste of space.,0.99,toxic,True
+MSG00103,2024-05-27 19:01:49,Twitter,user_0161,Let me know if you need anything.,0.01,clean,False
+MSG00104,2024-01-17 21:15:36,Telegram,user_0196,This is so freaking annoying!,0.67,borderline,True
+MSG00105,2024-03-10 09:36:22,Twitter,user_0085,Can you send me the report please?,0.27,clean,False
+MSG00106,2024-10-21 11:34:53,Reddit,user_0046,Get lost you absolute loser.,0.99,toxic,True
+MSG00107,2024-09-19 08:30:53,Reddit,user_0156,Get lost you absolute loser.,0.92,toxic,True
+MSG00108,2024-06-04 15:00:35,Discord,user_0045,"You are such an idiot, get out of here!",0.91,toxic,True
+MSG00109,2024-12-11 22:53:01,Reddit,user_0101,Everyone thinks you're pathetic.,0.79,toxic,True
+MSG00110,2024-07-02 12:10:56,Facebook,user_0119,I will destroy you if you show up.,0.7,toxic,True
+MSG00111,2024-08-25 08:47:53,Discord,user_0084,This is so freaking annoying!,0.61,borderline,True
+MSG00112,2024-10-17 04:44:39,Facebook,user_0040,You are the worst person I've ever met.,0.87,toxic,True
+MSG00113,2024-08-27 06:32:07,Telegram,user_0137,Looking forward to the weekend.,0.38,clean,False
+MSG00114,2024-06-10 10:13:45,Discord,user_0099,Everyone thinks you're pathetic.,0.99,toxic,True
+MSG00115,2024-03-21 07:45:26,Discord,user_0016,Great job on the presentation.,0.13,clean,False
+MSG00116,2024-01-29 02:40:30,Facebook,user_0002,I hate waiting so long for replies.,0.53,borderline,True
+MSG00117,2024-04-03 20:35:40,YouTube,user_0044,Your team is really disappointing me.,0.49,borderline,False
+MSG00118,2024-11-14 04:30:36,Telegram,user_0119,Your idea is kind of dumb tbh.,0.68,borderline,True
+MSG00119,2024-04-03 14:43:33,Telegram,user_0158,I'm so frustrated with this product.,0.49,borderline,False
+MSG00120,2024-08-25 03:30:02,Discord,user_0032,I finished the project early.,0.26,clean,False
+MSG00121,2024-06-25 15:00:24,YouTube,user_0051,This is so freaking annoying!,0.64,borderline,True
+MSG00122,2024-03-05 03:59:58,Twitter,user_0029,"This is garbage, fix it already.",0.67,borderline,True
+MSG00123,2024-03-05 18:47:12,Reddit,user_0006,Everyone thinks you're pathetic.,0.93,toxic,True
+MSG00124,2024-06-26 22:03:02,Facebook,user_0053,"Hey, how are you doing today?",0.08,clean,False
+MSG00125,2024-04-19 16:48:00,Reddit,user_0089,You're a disgusting human being.,0.84,toxic,True
+MSG00126,2024-06-21 07:18:01,Twitter,user_0055,Thanks for the help earlier!,0.07,clean,False
+MSG00127,2024-07-23 09:49:52,YouTube,user_0121,What time does the meeting start?,0.07,clean,False
+MSG00128,2024-06-20 20:19:50,Telegram,user_0008,I need help with this task.,0.19,clean,False
+MSG00129,2024-05-10 17:38:05,YouTube,user_0096,"You are such an idiot, get out of here!",0.99,toxic,True
+MSG00130,2024-12-19 22:00:11,YouTube,user_0070,This is so freaking annoying!,0.57,borderline,True
+MSG00131,2024-06-12 23:57:59,Discord,user_0171,Looking forward to the weekend.,0.07,clean,False
+MSG00132,2024-06-07 17:05:05,YouTube,user_0052,Thanks for the help earlier!,0.31,clean,False
+MSG00133,2024-02-27 11:24:55,Twitter,user_0034,Everyone thinks you're pathetic.,0.96,toxic,True
+MSG00134,2024-10-10 08:51:35,Reddit,user_0049,This service is pretty bad honestly.,0.65,borderline,True
+MSG00135,2024-07-12 08:31:47,Facebook,user_0172,Can you send me the report please?,0.34,clean,False
+MSG00136,2024-01-12 21:03:09,Twitter,user_0036,"Nobody wants you around, just leave.",0.84,toxic,True
+MSG00137,2024-05-27 20:22:37,Twitter,user_0064,You are so freaking dumb it hurts.,0.98,toxic,True
+MSG00138,2024-05-09 13:59:07,Discord,user_0001,Thanks for the help earlier!,0.31,clean,False
+MSG00139,2024-11-22 18:43:12,Facebook,user_0199,You are the worst person I've ever met.,0.81,toxic,True
+MSG00140,2024-04-29 06:59:27,Discord,user_0115,Please review my pull request.,0.11,clean,False
+MSG00141,2024-04-26 09:33:02,Telegram,user_0189,Let me know if you need anything.,0.13,clean,False
+MSG00142,2024-04-15 03:35:45,Discord,user_0070,Can you send me the report please?,0.01,clean,False
+MSG00143,2024-08-11 00:04:05,Twitter,user_0018,Everyone thinks you're pathetic.,0.73,toxic,True
+MSG00144,2024-02-10 00:46:55,Reddit,user_0200,This is an amazing opportunity.,0.34,clean,False
+MSG00145,2024-07-10 05:28:24,Discord,user_0132,Looking forward to the weekend.,0.07,clean,False
+MSG00146,2024-08-25 10:59:04,Reddit,user_0154,I hate waiting so long for replies.,0.59,borderline,True
+MSG00147,2024-01-22 20:13:42,YouTube,user_0167,Drop dead already you worthless jerk.,0.87,toxic,True
+MSG00148,2024-04-30 19:29:07,Discord,user_0032,"You're beyond stupid, learn to think.",0.82,toxic,True
+MSG00149,2024-01-18 05:30:51,Discord,user_0161,I will destroy you if you show up.,0.76,toxic,True
+MSG00150,2024-08-06 02:37:58,Discord,user_0054,I'll be there in 10 minutes.,0.03,clean,False
+MSG00151,2024-09-21 17:01:43,Facebook,user_0070,I need help with this task.,0.24,clean,False
+MSG00152,2024-10-22 08:33:28,Telegram,user_0193,I can't stand your ugly face.,0.86,toxic,True
+MSG00153,2024-05-05 16:38:55,YouTube,user_0018,You are a complete waste of space.,0.72,toxic,True
+MSG00154,2024-03-28 19:15:56,Telegram,user_0195,Can you send me the report please?,0.2,clean,False
+MSG00155,2024-12-03 09:51:01,Facebook,user_0014,I will destroy you if you show up.,0.9,toxic,True
+MSG00156,2024-02-06 19:12:48,Discord,user_0162,I hate waiting so long for replies.,0.5,borderline,True
+MSG00157,2024-09-03 11:36:54,YouTube,user_0063,Your idea is kind of dumb tbh.,0.5,borderline,True
+MSG00158,2024-04-17 21:17:17,YouTube,user_0124,Drop dead already you worthless jerk.,0.88,toxic,True
+MSG00159,2024-12-23 18:08:30,Discord,user_0056,You're a disgusting human being.,0.84,toxic,True
+MSG00160,2024-11-14 09:48:01,Reddit,user_0004,I hate waiting so long for replies.,0.41,borderline,False
+MSG00161,2024-07-12 04:39:34,Facebook,user_0147,Shut up you stupid moron.,0.74,toxic,True
+MSG00162,2024-11-06 05:34:23,Twitter,user_0124,"You are such an idiot, get out of here!",0.94,toxic,True
+MSG00163,2024-02-23 19:56:27,Telegram,user_0199,Drop dead already you worthless jerk.,0.98,toxic,True
+MSG00164,2024-10-26 16:47:31,Facebook,user_0151,Have a great day everyone!,0.03,clean,False
+MSG00165,2024-11-01 11:15:22,Twitter,user_0042,"You are such an idiot, get out of here!",0.89,toxic,True
+MSG00166,2024-05-04 22:18:57,Telegram,user_0012,This is an amazing opportunity.,0.09,clean,False
+MSG00167,2024-06-07 06:24:52,YouTube,user_0015,Let me know if you need anything.,0.1,clean,False
+MSG00168,2024-03-31 06:37:05,YouTube,user_0160,I will destroy you if you show up.,0.86,toxic,True
+MSG00169,2024-03-16 06:36:27,Twitter,user_0085,This is an amazing opportunity.,0.04,clean,False
+MSG00170,2024-09-06 04:14:52,Discord,user_0132,I don't really like how this works.,0.42,borderline,False
+MSG00171,2024-05-29 15:12:55,Telegram,user_0151,Can we reschedule for tomorrow?,0.13,clean,False
+MSG00172,2024-11-05 10:46:10,Telegram,user_0124,This is the worst app I've ever used.,0.44,borderline,False
+MSG00173,2024-05-09 11:44:24,Discord,user_0126,I'm so frustrated with this product.,0.55,borderline,True
+MSG00174,2024-09-23 21:34:01,YouTube,user_0056,Your team is really disappointing me.,0.55,borderline,True
+MSG00175,2024-02-17 14:37:55,Discord,user_0020,Please review my pull request.,0.01,clean,False
+MSG00176,2024-05-07 17:41:24,YouTube,user_0192,Everyone thinks you're pathetic.,0.79,toxic,True
+MSG00177,2024-12-03 11:44:04,Twitter,user_0194,Have a great day everyone!,0.25,clean,False
+MSG00178,2024-04-11 13:35:25,Twitter,user_0081,I finished the project early.,0.29,clean,False
+MSG00179,2024-10-01 10:12:17,Telegram,user_0095,This is the worst app I've ever used.,0.54,borderline,True
+MSG00180,2024-11-15 12:59:50,Twitter,user_0019,Can you send me the report please?,0.36,clean,False
+MSG00181,2024-10-25 16:02:33,Reddit,user_0119,Can we reschedule for tomorrow?,0.12,clean,False
+MSG00182,2024-01-19 23:02:30,Telegram,user_0085,I hope you suffer for what you did.,0.98,toxic,True
+MSG00183,2024-01-19 06:42:17,YouTube,user_0102,Have a great day everyone!,0.23,clean,False
+MSG00184,2024-01-18 06:38:55,Discord,user_0184,Drop dead already you worthless jerk.,0.75,toxic,True
+MSG00185,2024-08-31 10:07:30,Facebook,user_0189,Why is everything always broken here?,0.69,borderline,True
+MSG00186,2024-11-15 04:03:48,Discord,user_0066,Your team is really disappointing me.,0.47,borderline,False
+MSG00187,2024-03-10 20:09:01,Discord,user_0098,"Nobody wants you around, just leave.",0.84,toxic,True
+MSG00188,2024-08-14 18:55:54,YouTube,user_0185,Drop dead already you worthless jerk.,0.85,toxic,True
+MSG00189,2024-01-27 21:23:14,Twitter,user_0177,Can you send me the report please?,0.12,clean,False
+MSG00190,2024-03-08 13:32:00,Telegram,user_0185,Get lost you absolute loser.,0.93,toxic,True
+MSG00191,2024-07-09 07:49:46,Facebook,user_0037,I despise everything about you.,0.91,toxic,True
+MSG00192,2024-02-25 01:34:22,Reddit,user_0066,This is so freaking annoying!,0.6,borderline,True
+MSG00193,2024-03-16 23:04:15,Twitter,user_0158,I'll be there in 10 minutes.,0.04,clean,False
+MSG00194,2024-08-11 16:06:19,YouTube,user_0035,Why is everything always broken here?,0.46,borderline,False
+MSG00195,2024-07-03 21:06:20,Telegram,user_0019,I'll be there in 10 minutes.,0.34,clean,False
+MSG00196,2024-04-19 18:48:31,Facebook,user_0150,What time does the meeting start?,0.25,clean,False
+MSG00197,2024-05-17 15:55:40,Twitter,user_0018,"You are such an idiot, get out of here!",0.75,toxic,True
+MSG00198,2024-04-27 11:32:28,Telegram,user_0181,I'm so frustrated with this product.,0.58,borderline,True
+MSG00199,2024-08-16 05:12:31,Telegram,user_0032,I'll be there in 10 minutes.,0.32,clean,False
+MSG00200,2024-01-01 18:03:21,YouTube,user_0024,This is the worst app I've ever used.,0.49,borderline,False
+MSG00201,2024-03-07 18:03:04,Discord,user_0047,I despise everything about you.,0.8,toxic,True
+MSG00202,2024-04-26 22:27:11,Twitter,user_0084,I despise everything about you.,0.71,toxic,True
+MSG00203,2024-01-16 13:28:16,Telegram,user_0064,Great job on the presentation.,0.21,clean,False
+MSG00204,2024-10-24 08:57:42,Twitter,user_0001,Go kill yourself nobody likes you.,0.8,toxic,True
+MSG00205,2024-02-12 02:38:43,Telegram,user_0047,I finished the project early.,0.33,clean,False
+MSG00206,2024-04-24 17:36:05,Reddit,user_0114,Can we reschedule for tomorrow?,0.35,clean,False
+MSG00207,2024-10-24 13:08:16,Telegram,user_0198,Why is everything always broken here?,0.49,borderline,False
+MSG00208,2024-05-13 11:31:54,Discord,user_0188,Have a great day everyone!,0.24,clean,False
+MSG00209,2024-09-06 22:40:35,Facebook,user_0108,You dumb piece of trash.,0.87,toxic,True
+MSG00210,2024-12-05 08:28:33,Reddit,user_0045,I hope you suffer for what you did.,0.81,toxic,True
+MSG00211,2024-05-27 03:19:03,Discord,user_0197,Get lost you absolute loser.,0.9,toxic,True
+MSG00212,2024-08-17 03:25:11,Discord,user_0014,Why is everything always broken here?,0.57,borderline,True
+MSG00213,2024-01-15 17:31:37,Twitter,user_0015,I'm so frustrated with this product.,0.46,borderline,False
+MSG00214,2024-06-10 15:33:14,YouTube,user_0085,Great job on the presentation.,0.27,clean,False
+MSG00215,2024-10-24 12:07:06,Discord,user_0142,I will destroy you if you show up.,0.97,toxic,True
+MSG00216,2024-04-08 21:40:00,Facebook,user_0056,"You're beyond stupid, learn to think.",0.96,toxic,True
+MSG00217,2024-12-30 11:09:18,Reddit,user_0030,"You are such an idiot, get out of here!",0.81,toxic,True
+MSG00218,2024-02-03 06:33:23,YouTube,user_0049,Looking forward to the weekend.,0.36,clean,False
+MSG00219,2024-06-14 09:24:17,YouTube,user_0025,Thanks for the help earlier!,0.22,clean,False
+MSG00220,2024-06-20 19:00:31,Reddit,user_0036,I finished the project early.,0.04,clean,False
+MSG00221,2024-04-04 13:29:22,Telegram,user_0083,I will destroy you if you show up.,0.84,toxic,True
+MSG00222,2024-08-18 19:48:59,Reddit,user_0031,Great job on the presentation.,0.23,clean,False
+MSG00223,2024-03-02 18:42:09,Telegram,user_0138,I hate waiting so long for replies.,0.45,borderline,False
+MSG00224,2024-07-17 03:00:38,Twitter,user_0149,"Hey, how are you doing today?",0.0,clean,False
+MSG00225,2024-01-04 01:27:24,Telegram,user_0032,Have a great day everyone!,0.13,clean,False
+MSG00226,2024-10-02 20:09:28,Discord,user_0172,Looking forward to the weekend.,0.18,clean,False
+MSG00227,2024-01-31 15:00:56,Discord,user_0009,Shut up you stupid moron.,0.71,toxic,True
+MSG00228,2024-07-23 18:04:20,YouTube,user_0131,Everyone thinks you're pathetic.,0.89,toxic,True
+MSG00229,2024-05-22 18:07:33,YouTube,user_0036,"You are such an idiot, get out of here!",0.72,toxic,True
+MSG00230,2024-07-02 20:38:44,YouTube,user_0140,Please review my pull request.,0.19,clean,False
+MSG00231,2024-04-02 14:06:07,YouTube,user_0020,You're a disgusting human being.,0.94,toxic,True
+MSG00232,2024-08-23 12:12:47,Reddit,user_0064,You are so freaking dumb it hurts.,0.71,toxic,True
+MSG00233,2024-10-18 22:24:50,Facebook,user_0179,You are a total failure at everything.,0.98,toxic,True
+MSG00234,2024-02-28 16:39:20,Twitter,user_0040,Have a great day everyone!,0.0,clean,False
+MSG00235,2024-07-10 09:18:11,YouTube,user_0169,Thanks for the help earlier!,0.04,clean,False
+MSG00236,2024-07-11 22:17:12,Telegram,user_0191,Great job on the presentation.,0.36,clean,False
+MSG00237,2024-09-15 00:08:35,Twitter,user_0101,I hope you suffer for what you did.,0.91,toxic,True
+MSG00238,2024-10-12 21:58:11,Twitter,user_0035,Your team is really disappointing me.,0.51,borderline,True
+MSG00239,2024-05-30 13:33:26,Telegram,user_0002,I don't really like how this works.,0.47,borderline,False
+MSG00240,2024-02-25 09:14:47,Facebook,user_0157,Great job on the presentation.,0.23,clean,False
+MSG00241,2024-09-02 16:58:26,Discord,user_0180,Drop dead already you worthless jerk.,0.94,toxic,True
+MSG00242,2024-01-21 03:41:11,YouTube,user_0053,You are so freaking dumb it hurts.,0.7,toxic,True
+MSG00243,2024-05-08 13:12:29,YouTube,user_0049,I will destroy you if you show up.,0.83,toxic,True
+MSG00244,2024-09-05 11:15:41,Discord,user_0177,"This is garbage, fix it already.",0.52,borderline,True
+MSG00245,2024-03-18 04:50:01,YouTube,user_0066,Please review my pull request.,0.26,clean,False
+MSG00246,2024-02-19 18:15:42,YouTube,user_0062,"You are such an idiot, get out of here!",0.87,toxic,True
+MSG00247,2024-07-22 07:47:52,Discord,user_0029,You dumb piece of trash.,0.86,toxic,True
+MSG00248,2024-04-27 22:47:34,Telegram,user_0053,I finished the project early.,0.03,clean,False
+MSG00249,2024-10-16 11:22:29,Twitter,user_0191,I will destroy you if you show up.,0.8,toxic,True
+MSG00250,2024-08-16 14:21:14,Telegram,user_0108,Looking forward to the weekend.,0.33,clean,False
+MSG00251,2024-07-15 03:17:53,YouTube,user_0172,Your idea is kind of dumb tbh.,0.42,borderline,False
+MSG00252,2024-11-02 04:20:44,Twitter,user_0088,"Nobody wants you around, just leave.",0.96,toxic,True
+MSG00253,2024-02-09 04:33:15,Facebook,user_0170,"I hate you so much, you're worthless.",0.78,toxic,True
+MSG00254,2024-07-29 05:27:41,Reddit,user_0179,Let me know if you need anything.,0.22,clean,False
+MSG00255,2024-11-26 21:41:18,Discord,user_0197,"Hey, how are you doing today?",0.32,clean,False
+MSG00256,2024-08-15 14:55:46,YouTube,user_0081,Let me know if you need anything.,0.28,clean,False
+MSG00257,2024-01-09 20:46:24,Reddit,user_0181,"Hey, how are you doing today?",0.12,clean,False
+MSG00258,2024-01-22 13:29:13,Reddit,user_0096,You are so freaking dumb it hurts.,0.7,toxic,True
+MSG00259,2024-11-13 12:25:08,Twitter,user_0081,Looking forward to the weekend.,0.25,clean,False
+MSG00260,2024-08-10 21:57:58,Reddit,user_0094,Let me know if you need anything.,0.07,clean,False
+MSG00261,2024-08-28 05:46:02,Discord,user_0104,I despise everything about you.,0.8,toxic,True
+MSG00262,2024-02-26 09:04:22,Discord,user_0069,"I hate you so much, you're worthless.",0.95,toxic,True
+MSG00263,2024-11-15 08:29:07,Reddit,user_0055,I'm so frustrated with this product.,0.64,borderline,True
+MSG00264,2024-07-21 17:00:55,Telegram,user_0042,"I hate you so much, you're worthless.",0.96,toxic,True
+MSG00265,2024-02-26 07:03:30,Reddit,user_0165,I will destroy you if you show up.,0.88,toxic,True
+MSG00266,2024-10-07 02:03:06,Discord,user_0182,What time does the meeting start?,0.32,clean,False
+MSG00267,2024-04-21 09:44:11,Telegram,user_0148,Have a great day everyone!,0.04,clean,False
+MSG00268,2024-01-16 06:51:32,Discord,user_0022,This is an amazing opportunity.,0.33,clean,False
+MSG00269,2024-07-03 22:02:42,Twitter,user_0088,Get lost you absolute loser.,0.71,toxic,True
+MSG00270,2024-07-17 00:30:05,Telegram,user_0061,"I hate you so much, you're worthless.",0.84,toxic,True
+MSG00271,2024-12-11 07:53:22,Reddit,user_0134,"You're beyond stupid, learn to think.",0.97,toxic,True
+MSG00272,2024-04-25 05:44:55,Facebook,user_0170,Let me know if you need anything.,0.24,clean,False
+MSG00273,2024-01-14 20:52:41,Discord,user_0089,"Nobody wants you around, just leave.",0.87,toxic,True
+MSG00274,2024-07-31 13:55:45,Reddit,user_0024,Thanks for the help earlier!,0.0,clean,False
+MSG00275,2024-06-20 05:46:33,Reddit,user_0168,"This is garbage, fix it already.",0.51,borderline,True
+MSG00276,2024-10-23 19:42:56,Discord,user_0152,Everyone thinks you're pathetic.,0.72,toxic,True
+MSG00277,2024-12-12 21:22:15,Twitter,user_0166,I need help with this task.,0.23,clean,False
+MSG00278,2024-04-09 12:55:52,Reddit,user_0127,"This is garbage, fix it already.",0.63,borderline,True
+MSG00279,2024-05-12 13:28:34,Discord,user_0065,You're a disgusting human being.,0.88,toxic,True
+MSG00280,2024-11-08 23:27:03,Telegram,user_0003,Your team is really disappointing me.,0.64,borderline,True
+MSG00281,2024-03-05 15:14:26,Reddit,user_0094,I need help with this task.,0.19,clean,False
+MSG00282,2024-07-26 13:59:16,Discord,user_0050,Can we reschedule for tomorrow?,0.14,clean,False
+MSG00283,2024-03-15 17:24:35,Telegram,user_0030,"This is garbage, fix it already.",0.6,borderline,True
+MSG00284,2024-03-29 17:28:18,Telegram,user_0166,"I hate you so much, you're worthless.",0.82,toxic,True
+MSG00285,2024-10-09 22:28:33,Facebook,user_0045,Please review my pull request.,0.05,clean,False
+MSG00286,2024-05-18 02:37:35,Reddit,user_0061,What time does the meeting start?,0.36,clean,False
+MSG00287,2024-01-12 20:13:45,Reddit,user_0082,Everyone thinks you're pathetic.,0.99,toxic,True
+MSG00288,2024-08-14 18:56:33,Telegram,user_0082,Go kill yourself nobody likes you.,0.72,toxic,True
+MSG00289,2024-05-26 04:00:27,Discord,user_0005,"I hate you so much, you're worthless.",0.78,toxic,True
+MSG00290,2024-05-30 05:33:31,Telegram,user_0047,Can you send me the report please?,0.35,clean,False
+MSG00291,2024-10-11 05:07:24,Twitter,user_0127,I don't really like how this works.,0.45,borderline,False
+MSG00292,2024-02-09 04:29:33,Reddit,user_0181,The weather is really nice today.,0.37,clean,False
+MSG00293,2024-09-22 17:50:52,Telegram,user_0052,Looking forward to the weekend.,0.17,clean,False
+MSG00294,2024-02-22 04:29:48,Facebook,user_0060,I don't really like how this works.,0.46,borderline,False
+MSG00295,2024-06-29 09:54:30,Reddit,user_0060,Can we reschedule for tomorrow?,0.28,clean,False
+MSG00296,2024-09-27 15:29:58,Telegram,user_0194,You're a disgusting human being.,0.77,toxic,True
+MSG00297,2024-02-23 20:43:45,Telegram,user_0105,Go kill yourself nobody likes you.,0.98,toxic,True
+MSG00298,2024-12-18 17:58:50,Telegram,user_0024,"I hate you so much, you're worthless.",0.87,toxic,True
+MSG00299,2024-03-13 05:07:33,YouTube,user_0078,Can you send me the report please?,0.1,clean,False
+MSG00300,2024-11-13 10:03:30,Discord,user_0168,What time does the meeting start?,0.18,clean,False
+MSG00301,2024-09-11 20:56:09,Facebook,user_0112,Let me know if you need anything.,0.31,clean,False
+MSG00302,2024-02-14 21:31:40,Discord,user_0126,I don't really like how this works.,0.6,borderline,True
+MSG00303,2024-05-30 23:33:34,Facebook,user_0106,The weather is really nice today.,0.38,clean,False
+MSG00304,2024-01-24 15:44:12,Twitter,user_0003,"Hey, how are you doing today?",0.22,clean,False
+MSG00305,2024-01-12 03:28:54,Twitter,user_0017,You are a total failure at everything.,0.83,toxic,True
+MSG00306,2024-02-14 03:04:28,Reddit,user_0125,Have a great day everyone!,0.21,clean,False
+MSG00307,2024-06-05 10:24:35,Reddit,user_0011,You are a total failure at everything.,0.83,toxic,True
+MSG00308,2024-02-01 01:57:35,Twitter,user_0181,Get lost you absolute loser.,0.87,toxic,True
+MSG00309,2024-08-27 20:37:53,Twitter,user_0140,Your idea is kind of dumb tbh.,0.46,borderline,False
+MSG00310,2024-12-20 19:04:14,Facebook,user_0085,The weather is really nice today.,0.04,clean,False
+MSG00311,2024-07-02 11:30:07,Discord,user_0024,Can you send me the report please?,0.3,clean,False
+MSG00312,2024-07-06 02:51:38,YouTube,user_0193,I need help with this task.,0.15,clean,False
+MSG00313,2024-09-29 09:22:33,Twitter,user_0103,Great job on the presentation.,0.18,clean,False
+MSG00314,2024-06-01 05:04:44,Twitter,user_0106,Let me know if you need anything.,0.27,clean,False
+MSG00315,2024-01-29 20:34:05,Twitter,user_0171,"You make me sick, stop talking.",0.91,toxic,True
+MSG00316,2024-04-29 20:46:56,Facebook,user_0099,Can we reschedule for tomorrow?,0.03,clean,False
+MSG00317,2024-11-05 11:12:22,Reddit,user_0173,Thanks for the help earlier!,0.2,clean,False
+MSG00318,2024-07-04 22:52:56,Telegram,user_0042,Can we reschedule for tomorrow?,0.07,clean,False
+MSG00319,2024-10-15 19:48:08,YouTube,user_0193,The weather is really nice today.,0.39,clean,False
+MSG00320,2024-01-26 23:45:45,Twitter,user_0011,Great job on the presentation.,0.34,clean,False
+MSG00321,2024-06-19 09:14:52,YouTube,user_0118,"I hate you so much, you're worthless.",0.77,toxic,True
+MSG00322,2024-05-20 02:27:10,Facebook,user_0005,I will destroy you if you show up.,0.87,toxic,True
+MSG00323,2024-08-12 00:04:04,Twitter,user_0103,This is an amazing opportunity.,0.36,clean,False
+MSG00324,2024-12-02 01:39:43,Twitter,user_0200,I hate waiting so long for replies.,0.47,borderline,False
+MSG00325,2024-01-04 11:40:40,Telegram,user_0107,Thanks for the help earlier!,0.38,clean,False
+MSG00326,2024-04-30 10:51:42,Telegram,user_0046,I finished the project early.,0.31,clean,False
+MSG00327,2024-02-02 15:59:44,Twitter,user_0194,I need help with this task.,0.02,clean,False
+MSG00328,2024-06-01 05:39:22,Telegram,user_0157,Thanks for the help earlier!,0.1,clean,False
+MSG00329,2024-03-31 20:23:35,Twitter,user_0061,I'll be there in 10 minutes.,0.05,clean,False
+MSG00330,2024-08-25 22:35:43,Twitter,user_0020,This is an amazing opportunity.,0.26,clean,False
+MSG00331,2024-11-05 05:17:42,Twitter,user_0073,I'm so frustrated with this product.,0.68,borderline,True
+MSG00332,2024-11-15 08:09:01,Telegram,user_0198,Drop dead already you worthless jerk.,0.88,toxic,True
+MSG00333,2024-10-23 04:48:28,Facebook,user_0068,Everyone thinks you're pathetic.,0.79,toxic,True
+MSG00334,2024-04-03 21:03:55,Telegram,user_0194,I need help with this task.,0.26,clean,False
+MSG00335,2024-09-15 10:44:10,Discord,user_0125,I finished the project early.,0.03,clean,False
+MSG00336,2024-10-20 06:05:49,Twitter,user_0169,You are the worst person I've ever met.,0.84,toxic,True
+MSG00337,2024-08-26 04:14:15,Discord,user_0112,The weather is really nice today.,0.23,clean,False
+MSG00338,2024-08-29 17:12:00,Reddit,user_0141,Have a great day everyone!,0.38,clean,False
+MSG00339,2024-02-28 20:04:10,Twitter,user_0178,Looking forward to the weekend.,0.2,clean,False
+MSG00340,2024-10-01 03:55:32,Facebook,user_0077,Thanks for the help earlier!,0.21,clean,False
+MSG00341,2024-08-01 02:37:56,YouTube,user_0006,The weather is really nice today.,0.27,clean,False
+MSG00342,2024-06-25 20:49:33,YouTube,user_0196,What time does the meeting start?,0.33,clean,False
+MSG00343,2024-05-30 09:04:54,YouTube,user_0158,"This is garbage, fix it already.",0.46,borderline,False
+MSG00344,2024-10-18 11:04:02,Twitter,user_0016,"You're beyond stupid, learn to think.",0.92,toxic,True
+MSG00345,2024-10-05 19:27:10,YouTube,user_0167,I need help with this task.,0.14,clean,False
+MSG00346,2024-09-11 13:55:00,Discord,user_0061,You are the worst person I've ever met.,0.79,toxic,True
+MSG00347,2024-02-10 10:20:09,YouTube,user_0179,Drop dead already you worthless jerk.,0.91,toxic,True
+MSG00348,2024-10-05 08:12:59,Discord,user_0123,You're a disgusting human being.,0.87,toxic,True
+MSG00349,2024-09-22 05:12:43,Facebook,user_0156,Have a great day everyone!,0.12,clean,False
+MSG00350,2024-08-13 15:57:50,Telegram,user_0051,Drop dead already you worthless jerk.,0.7,toxic,True
+MSG00351,2024-08-22 12:07:02,YouTube,user_0127,The weather is really nice today.,0.02,clean,False
+MSG00352,2024-12-28 07:43:47,Twitter,user_0065,This service is pretty bad honestly.,0.55,borderline,True
+MSG00353,2024-04-26 05:56:10,Facebook,user_0076,This is so freaking annoying!,0.51,borderline,True
+MSG00354,2024-11-19 09:23:15,Reddit,user_0006,"This is garbage, fix it already.",0.49,borderline,False
+MSG00355,2024-08-16 15:52:25,Twitter,user_0198,This is so freaking annoying!,0.59,borderline,True
+MSG00356,2024-07-16 08:37:22,Reddit,user_0082,You are the worst person I've ever met.,0.88,toxic,True
+MSG00357,2024-08-09 09:47:19,Reddit,user_0032,I'll be there in 10 minutes.,0.09,clean,False
+MSG00358,2024-01-10 03:55:15,Telegram,user_0195,"I hate you so much, you're worthless.",0.88,toxic,True
+MSG00359,2024-09-06 13:24:29,Telegram,user_0123,You are a complete waste of space.,0.85,toxic,True
+MSG00360,2024-04-30 04:45:58,Telegram,user_0033,Have a great day everyone!,0.39,clean,False
+MSG00361,2024-04-01 19:32:07,Facebook,user_0197,Great job on the presentation.,0.25,clean,False
+MSG00362,2024-09-29 18:19:42,Twitter,user_0002,Get lost you absolute loser.,0.87,toxic,True
+MSG00363,2024-12-08 10:36:46,YouTube,user_0113,Great job on the presentation.,0.32,clean,False
+MSG00364,2024-08-04 06:38:15,Facebook,user_0019,You are so freaking dumb it hurts.,0.73,toxic,True
+MSG00365,2024-12-15 03:40:27,Telegram,user_0186,Can you send me the report please?,0.23,clean,False
+MSG00366,2024-05-18 08:51:55,YouTube,user_0140,Can we reschedule for tomorrow?,0.04,clean,False
+MSG00367,2024-02-15 05:44:17,Telegram,user_0159,Get lost you absolute loser.,0.91,toxic,True
+MSG00368,2024-09-11 18:09:35,Facebook,user_0154,I don't really like how this works.,0.46,borderline,False
+MSG00369,2024-11-05 16:31:15,Twitter,user_0119,Have a great day everyone!,0.26,clean,False
+MSG00370,2024-08-27 14:03:13,Discord,user_0114,This service is pretty bad honestly.,0.51,borderline,True
+MSG00371,2024-10-25 20:15:35,Facebook,user_0131,"You make me sick, stop talking.",0.91,toxic,True
+MSG00372,2024-05-28 06:11:07,Twitter,user_0088,Go kill yourself nobody likes you.,0.77,toxic,True
+MSG00373,2024-11-05 12:36:09,Facebook,user_0035,Go kill yourself nobody likes you.,0.72,toxic,True
+MSG00374,2024-10-03 09:21:40,Facebook,user_0070,Drop dead already you worthless jerk.,0.79,toxic,True
+MSG00375,2024-09-07 03:24:41,YouTube,user_0041,"Hey, how are you doing today?",0.37,clean,False
+MSG00376,2024-08-17 22:52:19,Twitter,user_0072,"You are such an idiot, get out of here!",0.85,toxic,True
+MSG00377,2024-05-31 04:28:21,Discord,user_0198,"You are such an idiot, get out of here!",0.82,toxic,True
+MSG00378,2024-01-20 22:50:42,Discord,user_0183,Have a great day everyone!,0.01,clean,False
+MSG00379,2024-05-28 23:21:12,Discord,user_0019,You are so freaking dumb it hurts.,0.74,toxic,True
+MSG00380,2024-11-14 22:41:32,YouTube,user_0154,Your idea is kind of dumb tbh.,0.65,borderline,True
+MSG00381,2024-10-28 15:27:16,Reddit,user_0151,Drop dead already you worthless jerk.,0.76,toxic,True
+MSG00382,2024-03-28 18:45:24,Telegram,user_0140,I hate waiting so long for replies.,0.61,borderline,True
+MSG00383,2024-11-27 23:13:49,Reddit,user_0091,This is an amazing opportunity.,0.25,clean,False
+MSG00384,2024-10-28 02:02:03,Twitter,user_0081,"This is garbage, fix it already.",0.45,borderline,False
+MSG00385,2024-03-29 00:17:02,Telegram,user_0003,Looking forward to the weekend.,0.32,clean,False
+MSG00386,2024-07-01 16:55:21,Reddit,user_0081,Why is everything always broken here?,0.55,borderline,True
+MSG00387,2024-08-01 04:41:53,Twitter,user_0113,I don't really like how this works.,0.58,borderline,True
+MSG00388,2024-08-18 04:19:45,Twitter,user_0059,What time does the meeting start?,0.27,clean,False
+MSG00389,2024-12-26 07:14:02,Reddit,user_0113,The weather is really nice today.,0.31,clean,False
+MSG00390,2024-07-03 14:47:13,Reddit,user_0089,I despise everything about you.,0.82,toxic,True
+MSG00391,2024-08-28 07:34:40,Twitter,user_0042,"This is garbage, fix it already.",0.54,borderline,True
+MSG00392,2024-12-02 14:27:22,Reddit,user_0186,You dumb piece of trash.,0.94,toxic,True
+MSG00393,2024-09-02 07:54:45,Twitter,user_0010,This service is pretty bad honestly.,0.46,borderline,False
+MSG00394,2024-03-03 06:40:14,Telegram,user_0117,"This is garbage, fix it already.",0.62,borderline,True
+MSG00395,2024-06-21 23:56:49,Twitter,user_0115,Please review my pull request.,0.01,clean,False
+MSG00396,2024-09-05 00:44:08,Reddit,user_0146,This is so freaking annoying!,0.57,borderline,True
+MSG00397,2024-05-06 01:13:24,Facebook,user_0067,This is the worst app I've ever used.,0.67,borderline,True
+MSG00398,2024-03-16 01:54:19,Telegram,user_0095,Thanks for the help earlier!,0.05,clean,False
+MSG00399,2024-05-10 18:32:07,Facebook,user_0161,Shut up you stupid moron.,0.83,toxic,True
+MSG00400,2024-03-01 03:04:48,Discord,user_0062,I hope you suffer for what you did.,0.82,toxic,True
+MSG00401,2024-03-04 09:04:30,Twitter,user_0071,I don't really like how this works.,0.43,borderline,False
+MSG00402,2024-04-19 08:21:37,Facebook,user_0003,I despise everything about you.,0.99,toxic,True
+MSG00403,2024-06-16 10:26:03,Telegram,user_0089,Why is everything always broken here?,0.54,borderline,True
+MSG00404,2024-05-27 18:50:16,Reddit,user_0137,You are a total failure at everything.,0.9,toxic,True
+MSG00405,2024-07-25 08:22:31,Facebook,user_0047,Thanks for the help earlier!,0.17,clean,False
+MSG00406,2024-12-25 05:28:42,Facebook,user_0032,"You're beyond stupid, learn to think.",0.92,toxic,True
+MSG00407,2024-03-17 16:15:42,YouTube,user_0148,Get lost you absolute loser.,0.91,toxic,True
+MSG00408,2024-12-09 15:23:39,YouTube,user_0106,"You make me sick, stop talking.",0.92,toxic,True
+MSG00409,2024-04-05 15:47:58,Telegram,user_0015,Have a great day everyone!,0.05,clean,False
+MSG00410,2024-11-01 23:16:50,YouTube,user_0134,You're a disgusting human being.,0.9,toxic,True
+MSG00411,2024-02-08 06:25:59,Twitter,user_0149,Can we reschedule for tomorrow?,0.24,clean,False
+MSG00412,2024-10-14 07:22:25,Twitter,user_0186,Everyone thinks you're pathetic.,0.75,toxic,True
+MSG00413,2024-07-05 04:20:47,Facebook,user_0117,I'll be there in 10 minutes.,0.33,clean,False
+MSG00414,2024-09-23 08:55:24,Telegram,user_0113,Can we reschedule for tomorrow?,0.23,clean,False
+MSG00415,2024-05-15 02:38:01,Facebook,user_0084,You are the worst person I've ever met.,0.72,toxic,True
+MSG00416,2024-09-22 22:46:23,Twitter,user_0090,I'll be there in 10 minutes.,0.17,clean,False
+MSG00417,2024-02-22 06:06:50,Reddit,user_0145,You're a disgusting human being.,0.89,toxic,True
+MSG00418,2024-08-29 07:49:16,Reddit,user_0089,The weather is really nice today.,0.33,clean,False
+MSG00419,2024-10-24 11:31:45,Reddit,user_0168,You are so freaking dumb it hurts.,0.88,toxic,True
+MSG00420,2024-05-28 08:05:16,Reddit,user_0145,Your team is really disappointing me.,0.41,borderline,False
+MSG00421,2024-08-14 06:27:16,Discord,user_0050,"You make me sick, stop talking.",0.71,toxic,True
+MSG00422,2024-08-28 00:32:27,Facebook,user_0036,"I hate you so much, you're worthless.",0.86,toxic,True
+MSG00423,2024-07-07 02:16:57,Discord,user_0187,Your idea is kind of dumb tbh.,0.6,borderline,True
+MSG00424,2024-01-11 16:00:30,Reddit,user_0116,Thanks for the help earlier!,0.04,clean,False
+MSG00425,2024-09-23 21:33:50,YouTube,user_0056,I hate waiting so long for replies.,0.53,borderline,True
+MSG00426,2024-11-20 14:39:29,Telegram,user_0169,"You are such an idiot, get out of here!",0.91,toxic,True
+MSG00427,2024-05-13 23:33:37,Twitter,user_0098,Your team is really disappointing me.,0.45,borderline,False
+MSG00428,2024-05-14 00:13:00,Telegram,user_0059,Everyone thinks you're pathetic.,0.75,toxic,True
+MSG00429,2024-10-06 18:38:00,Discord,user_0057,I don't really like how this works.,0.66,borderline,True
+MSG00430,2024-09-15 20:45:18,Reddit,user_0044,This is an amazing opportunity.,0.38,clean,False
+MSG00431,2024-05-22 05:21:52,Twitter,user_0044,Can we reschedule for tomorrow?,0.26,clean,False
+MSG00432,2024-11-07 16:34:21,Twitter,user_0134,I hate waiting so long for replies.,0.63,borderline,True
+MSG00433,2024-02-08 18:09:25,YouTube,user_0197,I don't really like how this works.,0.41,borderline,False
+MSG00434,2024-12-04 19:57:38,YouTube,user_0037,The weather is really nice today.,0.29,clean,False
+MSG00435,2024-04-24 15:17:57,Reddit,user_0066,The weather is really nice today.,0.14,clean,False
+MSG00436,2024-03-28 13:45:24,Discord,user_0016,What time does the meeting start?,0.37,clean,False
+MSG00437,2024-12-07 09:47:51,Facebook,user_0179,Drop dead already you worthless jerk.,0.99,toxic,True
+MSG00438,2024-05-05 15:46:29,Facebook,user_0096,I hate waiting so long for replies.,0.46,borderline,False
+MSG00439,2024-02-21 20:36:10,Telegram,user_0039,Please review my pull request.,0.18,clean,False
+MSG00440,2024-12-11 14:42:48,YouTube,user_0108,Your idea is kind of dumb tbh.,0.56,borderline,True
+MSG00441,2024-03-25 01:37:01,Telegram,user_0068,Have a great day everyone!,0.24,clean,False
+MSG00442,2024-05-26 05:38:04,Telegram,user_0171,Why is everything always broken here?,0.58,borderline,True
+MSG00443,2024-11-26 23:11:22,Telegram,user_0186,"You're beyond stupid, learn to think.",0.96,toxic,True
+MSG00444,2024-03-19 04:42:44,Reddit,user_0174,Can you send me the report please?,0.13,clean,False
+MSG00445,2024-04-22 00:39:50,Facebook,user_0090,Drop dead already you worthless jerk.,0.85,toxic,True
+MSG00446,2024-12-28 09:33:58,YouTube,user_0098,Let me know if you need anything.,0.22,clean,False
+MSG00447,2024-01-07 00:59:06,Reddit,user_0007,Looking forward to the weekend.,0.31,clean,False
+MSG00448,2024-06-12 20:46:14,YouTube,user_0152,I'll be there in 10 minutes.,0.07,clean,False
+MSG00449,2024-12-23 19:30:10,Reddit,user_0092,I hate waiting so long for replies.,0.52,borderline,True
+MSG00450,2024-07-19 15:46:05,Twitter,user_0004,"Nobody wants you around, just leave.",0.83,toxic,True
+MSG00451,2024-11-08 23:51:06,Discord,user_0049,Looking forward to the weekend.,0.02,clean,False
+MSG00452,2024-01-28 02:30:07,YouTube,user_0019,Thanks for the help earlier!,0.02,clean,False
+MSG00453,2024-04-09 13:52:46,Reddit,user_0054,This is so freaking annoying!,0.66,borderline,True
+MSG00454,2024-05-30 09:35:57,Telegram,user_0010,What time does the meeting start?,0.39,clean,False
+MSG00455,2024-01-07 22:12:40,Reddit,user_0135,Shut up you stupid moron.,0.81,toxic,True
+MSG00456,2024-10-05 12:34:14,Telegram,user_0186,Please review my pull request.,0.11,clean,False
+MSG00457,2024-01-23 12:53:43,Telegram,user_0181,"I hate you so much, you're worthless.",0.98,toxic,True
+MSG00458,2024-11-26 01:40:28,YouTube,user_0147,You're a disgusting human being.,0.82,toxic,True
+MSG00459,2024-02-24 17:00:53,Telegram,user_0005,I'm so frustrated with this product.,0.47,borderline,False
+MSG00460,2024-02-06 02:37:44,Telegram,user_0080,Let me know if you need anything.,0.19,clean,False
+MSG00461,2024-09-01 06:25:54,YouTube,user_0034,Thanks for the help earlier!,0.06,clean,False
+MSG00462,2024-12-09 19:48:19,Facebook,user_0036,"Hey, how are you doing today?",0.25,clean,False
+MSG00463,2024-05-06 21:25:47,Reddit,user_0068,This is the worst app I've ever used.,0.42,borderline,False
+MSG00464,2024-11-28 00:47:07,YouTube,user_0087,You are a complete waste of space.,0.79,toxic,True
+MSG00465,2024-07-07 18:51:18,Telegram,user_0070,"This is garbage, fix it already.",0.54,borderline,True
+MSG00466,2024-04-01 04:36:01,Telegram,user_0142,What time does the meeting start?,0.01,clean,False
+MSG00467,2024-07-08 07:25:14,Twitter,user_0033,You are a complete waste of space.,0.75,toxic,True
+MSG00468,2024-03-17 14:46:38,Discord,user_0185,You are the worst person I've ever met.,0.73,toxic,True
+MSG00469,2024-01-05 05:53:08,Facebook,user_0163,Can you send me the report please?,0.08,clean,False
+MSG00470,2024-08-26 04:22:52,Telegram,user_0027,This is the worst app I've ever used.,0.65,borderline,True
+MSG00471,2024-10-29 16:33:55,Discord,user_0062,"Nobody wants you around, just leave.",0.86,toxic,True
+MSG00472,2024-05-25 11:11:42,Reddit,user_0065,Everyone thinks you're pathetic.,0.87,toxic,True
+MSG00473,2024-12-04 09:24:31,Telegram,user_0165,You are so freaking dumb it hurts.,0.91,toxic,True
+MSG00474,2024-08-27 05:39:45,Telegram,user_0036,This is the worst app I've ever used.,0.6,borderline,True
+MSG00475,2024-04-14 08:55:10,Twitter,user_0071,This service is pretty bad honestly.,0.59,borderline,True
+MSG00476,2024-05-26 03:31:39,YouTube,user_0123,Have a great day everyone!,0.05,clean,False
+MSG00477,2024-08-14 04:07:52,Facebook,user_0112,This is the worst app I've ever used.,0.49,borderline,False
+MSG00478,2024-04-24 19:30:35,Facebook,user_0168,I need help with this task.,0.34,clean,False
+MSG00479,2024-05-10 20:47:23,Reddit,user_0134,Get lost you absolute loser.,0.88,toxic,True
+MSG00480,2024-07-29 23:11:19,Telegram,user_0117,Go kill yourself nobody likes you.,0.73,toxic,True
+MSG00481,2024-08-26 01:26:13,Facebook,user_0093,You dumb piece of trash.,0.7,toxic,True
+MSG00482,2024-08-03 05:12:47,Twitter,user_0055,"Hey, how are you doing today?",0.26,clean,False
+MSG00483,2024-09-02 10:47:04,Discord,user_0078,"Hey, how are you doing today?",0.3,clean,False
+MSG00484,2024-06-12 10:28:23,Telegram,user_0025,I'll be there in 10 minutes.,0.03,clean,False
+MSG00485,2024-12-05 16:49:46,Facebook,user_0084,I need help with this task.,0.13,clean,False
+MSG00486,2024-07-11 14:09:28,Facebook,user_0069,I can't stand your ugly face.,0.97,toxic,True
+MSG00487,2024-06-04 17:28:17,YouTube,user_0082,Why is everything always broken here?,0.51,borderline,True
+MSG00488,2024-12-02 07:46:08,Telegram,user_0099,Great job on the presentation.,0.08,clean,False
+MSG00489,2024-06-06 04:15:50,Telegram,user_0072,Have a great day everyone!,0.32,clean,False
+MSG00490,2024-03-23 00:06:23,Discord,user_0199,I need help with this task.,0.11,clean,False
+MSG00491,2024-10-28 14:50:05,Twitter,user_0038,This is the worst app I've ever used.,0.4,borderline,False
+MSG00492,2024-04-27 12:04:07,Facebook,user_0125,I don't really like how this works.,0.5,borderline,True
+MSG00493,2024-09-29 11:48:58,Reddit,user_0007,You dumb piece of trash.,0.82,toxic,True
+MSG00494,2024-03-29 01:18:12,Facebook,user_0148,Get lost you absolute loser.,0.85,toxic,True
+MSG00495,2024-02-04 15:47:27,YouTube,user_0171,Please review my pull request.,0.26,clean,False
+MSG00496,2024-08-13 06:55:22,Reddit,user_0085,You are a total failure at everything.,0.96,toxic,True
+MSG00497,2024-04-29 16:37:51,YouTube,user_0044,This is an amazing opportunity.,0.34,clean,False
+MSG00498,2024-02-15 08:37:01,Discord,user_0160,Everyone thinks you're pathetic.,0.8,toxic,True
+MSG00499,2024-09-28 20:44:12,Twitter,user_0110,You are a complete waste of space.,0.91,toxic,True
+MSG00500,2024-06-29 17:14:18,YouTube,user_0044,You dumb piece of trash.,0.77,toxic,True
+MSG00501,2024-11-27 21:51:39,Reddit,user_0140,You are a complete waste of space.,0.78,toxic,True
+MSG00502,2024-12-03 17:15:23,Discord,user_0088,I despise everything about you.,0.91,toxic,True
+MSG00503,2024-06-12 14:26:34,Telegram,user_0055,I hate waiting so long for replies.,0.42,borderline,False
+MSG00504,2024-11-24 22:44:20,Telegram,user_0146,Can you send me the report please?,0.04,clean,False
+MSG00505,2024-12-10 03:21:15,Reddit,user_0055,"Nobody wants you around, just leave.",0.94,toxic,True
+MSG00506,2024-09-08 05:23:26,Telegram,user_0037,Let me know if you need anything.,0.22,clean,False
+MSG00507,2024-01-26 08:14:38,Facebook,user_0161,This is an amazing opportunity.,0.29,clean,False
+MSG00508,2024-03-06 06:59:39,Twitter,user_0165,You are a complete waste of space.,0.77,toxic,True
+MSG00509,2024-10-13 17:27:17,Telegram,user_0117,Looking forward to the weekend.,0.38,clean,False
+MSG00510,2024-11-22 18:24:46,Twitter,user_0067,You're a disgusting human being.,0.96,toxic,True
+MSG00511,2024-04-10 04:12:06,Reddit,user_0049,I despise everything about you.,0.85,toxic,True
+MSG00512,2024-03-11 16:19:10,Discord,user_0178,Can you send me the report please?,0.03,clean,False
+MSG00513,2024-03-01 08:20:11,Twitter,user_0080,This is so freaking annoying!,0.47,borderline,False
+MSG00514,2024-06-04 05:01:07,Twitter,user_0094,Get lost you absolute loser.,0.76,toxic,True
+MSG00515,2024-06-28 10:04:23,YouTube,user_0161,"I hate you so much, you're worthless.",0.76,toxic,True
+MSG00516,2024-07-25 08:03:07,Twitter,user_0061,You are a complete waste of space.,0.78,toxic,True
+MSG00517,2024-03-10 16:21:59,Discord,user_0134,"You're beyond stupid, learn to think.",0.8,toxic,True
+MSG00518,2024-11-17 10:04:41,YouTube,user_0132,"You're beyond stupid, learn to think.",0.96,toxic,True
+MSG00519,2024-10-16 15:18:35,Reddit,user_0136,Please review my pull request.,0.06,clean,False
+MSG00520,2024-06-04 22:20:25,Facebook,user_0084,Let me know if you need anything.,0.0,clean,False
+MSG00521,2024-07-20 14:59:52,Reddit,user_0041,This service is pretty bad honestly.,0.6,borderline,True
+MSG00522,2024-09-07 09:46:18,Discord,user_0095,You are a complete waste of space.,0.8,toxic,True
+MSG00523,2024-07-03 14:55:47,Facebook,user_0043,You are so freaking dumb it hurts.,0.94,toxic,True
+MSG00524,2024-05-05 02:17:42,Discord,user_0142,Can you send me the report please?,0.28,clean,False
+MSG00525,2024-12-13 23:25:28,YouTube,user_0176,Have a great day everyone!,0.37,clean,False
+MSG00526,2024-03-27 18:37:10,Facebook,user_0049,You're a disgusting human being.,0.79,toxic,True
+MSG00527,2024-01-28 06:17:42,Reddit,user_0199,Please review my pull request.,0.2,clean,False
+MSG00528,2024-12-05 09:07:28,Facebook,user_0150,Can we reschedule for tomorrow?,0.17,clean,False
+MSG00529,2024-12-28 10:50:52,Telegram,user_0120,Great job on the presentation.,0.29,clean,False
+MSG00530,2024-10-09 06:13:26,YouTube,user_0138,I don't really like how this works.,0.49,borderline,False
+MSG00531,2024-12-08 13:09:59,Reddit,user_0028,I will destroy you if you show up.,0.94,toxic,True
+MSG00532,2024-05-20 19:26:45,Telegram,user_0131,You are a complete waste of space.,0.82,toxic,True
+MSG00533,2024-03-25 00:07:47,Discord,user_0091,I finished the project early.,0.39,clean,False
+MSG00534,2024-12-02 11:52:38,Facebook,user_0111,Can you send me the report please?,0.39,clean,False
+MSG00535,2024-12-26 11:36:54,Reddit,user_0017,"This is garbage, fix it already.",0.52,borderline,True
+MSG00536,2024-05-27 00:56:22,Facebook,user_0053,What time does the meeting start?,0.27,clean,False
+MSG00537,2024-06-24 17:55:12,Twitter,user_0105,"Nobody wants you around, just leave.",0.95,toxic,True
+MSG00538,2024-11-26 11:01:59,Twitter,user_0137,What time does the meeting start?,0.22,clean,False
+MSG00539,2024-04-16 00:20:59,Discord,user_0185,What time does the meeting start?,0.26,clean,False
+MSG00540,2024-01-01 14:19:28,Reddit,user_0112,This is an amazing opportunity.,0.36,clean,False
+MSG00541,2024-09-28 12:18:38,Reddit,user_0033,I hate waiting so long for replies.,0.4,borderline,False
+MSG00542,2024-07-24 19:53:16,Telegram,user_0100,You dumb piece of trash.,0.75,toxic,True
+MSG00543,2024-04-15 13:07:28,Twitter,user_0033,"You make me sick, stop talking.",0.92,toxic,True
+MSG00544,2024-05-29 06:18:22,Twitter,user_0121,Why is everything always broken here?,0.56,borderline,True
+MSG00545,2024-03-21 11:16:02,Reddit,user_0001,Great job on the presentation.,0.26,clean,False
+MSG00546,2024-03-21 00:03:52,Telegram,user_0096,I despise everything about you.,0.98,toxic,True
+MSG00547,2024-06-24 06:50:54,YouTube,user_0126,I need help with this task.,0.38,clean,False
+MSG00548,2024-03-05 14:02:50,Reddit,user_0067,Your idea is kind of dumb tbh.,0.42,borderline,False
+MSG00549,2024-07-23 11:56:37,Twitter,user_0081,Shut up you stupid moron.,0.94,toxic,True
+MSG00550,2024-03-21 14:29:17,Telegram,user_0020,Can you send me the report please?,0.06,clean,False
+MSG00551,2024-10-20 17:45:13,Facebook,user_0070,I can't stand your ugly face.,0.92,toxic,True
+MSG00552,2024-01-28 20:19:13,YouTube,user_0106,The weather is really nice today.,0.01,clean,False
+MSG00553,2024-08-10 05:00:06,Discord,user_0192,This is the worst app I've ever used.,0.61,borderline,True
+MSG00554,2024-10-19 21:19:55,Facebook,user_0071,I will destroy you if you show up.,0.76,toxic,True
+MSG00555,2024-02-15 00:37:31,Discord,user_0054,Your idea is kind of dumb tbh.,0.61,borderline,True
+MSG00556,2024-11-27 21:45:59,Twitter,user_0087,I don't really like how this works.,0.67,borderline,True
+MSG00557,2024-08-25 08:06:05,Discord,user_0068,Your team is really disappointing me.,0.52,borderline,True
+MSG00558,2024-02-23 19:02:21,Discord,user_0072,You are a complete waste of space.,0.74,toxic,True
+MSG00559,2024-02-15 19:23:46,Twitter,user_0094,I'm so frustrated with this product.,0.4,borderline,False
+MSG00560,2024-04-29 10:13:21,Discord,user_0125,I will destroy you if you show up.,0.92,toxic,True
+MSG00561,2024-11-17 23:46:07,Discord,user_0139,Please review my pull request.,0.21,clean,False
+MSG00562,2024-05-26 13:12:17,Discord,user_0046,You dumb piece of trash.,0.96,toxic,True
+MSG00563,2024-01-11 00:11:50,Facebook,user_0025,I need help with this task.,0.1,clean,False
+MSG00564,2024-11-10 00:19:03,Discord,user_0130,The weather is really nice today.,0.36,clean,False
+MSG00565,2024-09-21 22:06:49,Discord,user_0089,Can we reschedule for tomorrow?,0.22,clean,False
+MSG00566,2024-01-30 08:10:25,Facebook,user_0007,Have a great day everyone!,0.23,clean,False
+MSG00567,2024-09-25 20:52:40,Facebook,user_0124,Have a great day everyone!,0.35,clean,False
+MSG00568,2024-05-15 17:58:28,YouTube,user_0100,What time does the meeting start?,0.25,clean,False
+MSG00569,2024-07-04 23:04:31,Facebook,user_0166,I'll be there in 10 minutes.,0.13,clean,False
+MSG00570,2024-04-18 11:42:42,Discord,user_0005,This is the worst app I've ever used.,0.44,borderline,False
+MSG00571,2024-05-22 23:23:43,Twitter,user_0061,"You make me sick, stop talking.",0.95,toxic,True
+MSG00572,2024-09-20 06:35:29,Facebook,user_0139,I will destroy you if you show up.,0.97,toxic,True
+MSG00573,2024-05-15 14:26:36,Reddit,user_0046,I hope you suffer for what you did.,0.78,toxic,True
+MSG00574,2024-04-03 22:41:49,Discord,user_0124,The weather is really nice today.,0.35,clean,False
+MSG00575,2024-08-28 05:11:06,YouTube,user_0111,Everyone thinks you're pathetic.,0.8,toxic,True
+MSG00576,2024-06-28 14:10:06,Discord,user_0110,This service is pretty bad honestly.,0.46,borderline,False
+MSG00577,2024-02-15 09:02:19,YouTube,user_0094,Everyone thinks you're pathetic.,0.82,toxic,True
+MSG00578,2024-04-26 22:07:38,Facebook,user_0030,I don't really like how this works.,0.56,borderline,True
+MSG00579,2024-06-10 02:43:23,Twitter,user_0058,Your team is really disappointing me.,0.45,borderline,False
+MSG00580,2024-11-16 11:36:06,Discord,user_0186,Have a great day everyone!,0.39,clean,False
+MSG00581,2024-10-25 15:21:25,YouTube,user_0154,This is so freaking annoying!,0.64,borderline,True
+MSG00582,2024-12-30 12:00:58,Twitter,user_0114,Please review my pull request.,0.36,clean,False
+MSG00583,2024-06-09 04:20:57,Reddit,user_0109,"You make me sick, stop talking.",0.95,toxic,True
+MSG00584,2024-02-14 10:34:21,Discord,user_0075,Let me know if you need anything.,0.21,clean,False
+MSG00585,2024-01-16 22:27:13,Telegram,user_0037,What time does the meeting start?,0.31,clean,False
+MSG00586,2024-06-13 14:22:17,Reddit,user_0169,I will destroy you if you show up.,0.97,toxic,True
+MSG00587,2024-09-25 14:10:58,Discord,user_0168,I don't really like how this works.,0.62,borderline,True
+MSG00588,2024-06-12 19:18:34,Discord,user_0080,Have a great day everyone!,0.36,clean,False
+MSG00589,2024-08-01 16:58:56,YouTube,user_0157,I can't stand your ugly face.,0.79,toxic,True
+MSG00590,2024-08-23 03:33:59,Facebook,user_0021,I'll be there in 10 minutes.,0.14,clean,False
+MSG00591,2024-08-10 11:06:23,Facebook,user_0086,You are so freaking dumb it hurts.,0.84,toxic,True
+MSG00592,2024-05-07 19:03:40,Reddit,user_0050,I need help with this task.,0.07,clean,False
+MSG00593,2024-02-10 22:45:48,Discord,user_0154,Can we reschedule for tomorrow?,0.19,clean,False
+MSG00594,2024-10-15 06:59:29,Reddit,user_0013,Drop dead already you worthless jerk.,0.97,toxic,True
+MSG00595,2024-03-14 10:16:00,Facebook,user_0089,This is an amazing opportunity.,0.14,clean,False
+MSG00596,2024-11-23 20:59:07,Reddit,user_0013,You are a complete waste of space.,0.87,toxic,True
+MSG00597,2024-11-21 10:42:40,Twitter,user_0172,This service is pretty bad honestly.,0.42,borderline,False
+MSG00598,2024-05-19 05:52:35,Telegram,user_0121,Can we reschedule for tomorrow?,0.14,clean,False
+MSG00599,2024-06-12 10:16:12,YouTube,user_0161,Please review my pull request.,0.1,clean,False
+MSG00600,2024-10-13 13:48:05,Reddit,user_0006,I'm so frustrated with this product.,0.63,borderline,True
+MSG00601,2024-01-21 03:37:26,Reddit,user_0078,This is an amazing opportunity.,0.02,clean,False
+MSG00602,2024-02-06 22:15:05,Telegram,user_0089,I need help with this task.,0.07,clean,False
+MSG00603,2024-06-28 09:24:52,Reddit,user_0103,I'll be there in 10 minutes.,0.33,clean,False
+MSG00604,2024-12-26 10:04:42,Facebook,user_0141,This is the worst app I've ever used.,0.51,borderline,True
+MSG00605,2024-02-12 23:56:49,Reddit,user_0068,I finished the project early.,0.33,clean,False
+MSG00606,2024-12-16 08:42:06,YouTube,user_0016,This is an amazing opportunity.,0.28,clean,False
+MSG00607,2024-01-15 05:43:32,Reddit,user_0075,You are the worst person I've ever met.,0.9,toxic,True
+MSG00608,2024-04-28 11:12:46,Telegram,user_0033,This service is pretty bad honestly.,0.51,borderline,True
+MSG00609,2024-08-09 18:27:26,Discord,user_0081,You dumb piece of trash.,0.75,toxic,True
+MSG00610,2024-11-02 03:32:49,Twitter,user_0172,I hope you suffer for what you did.,0.74,toxic,True
+MSG00611,2024-08-11 08:59:02,Reddit,user_0108,Can we reschedule for tomorrow?,0.11,clean,False
+MSG00612,2024-01-15 05:31:22,Twitter,user_0084,Let me know if you need anything.,0.28,clean,False
+MSG00613,2024-08-10 21:20:29,YouTube,user_0040,Have a great day everyone!,0.0,clean,False
+MSG00614,2024-12-10 02:19:51,Facebook,user_0160,I'm so frustrated with this product.,0.51,borderline,True
+MSG00615,2024-08-14 01:55:54,Twitter,user_0058,What time does the meeting start?,0.2,clean,False
+MSG00616,2024-12-03 19:59:09,Telegram,user_0134,Let me know if you need anything.,0.31,clean,False
+MSG00617,2024-12-27 06:38:41,Telegram,user_0182,I need help with this task.,0.37,clean,False
+MSG00618,2024-08-29 04:57:09,Discord,user_0069,Your team is really disappointing me.,0.44,borderline,False
+MSG00619,2024-11-02 06:13:21,Twitter,user_0020,Please review my pull request.,0.39,clean,False
+MSG00620,2024-01-19 06:57:36,Twitter,user_0083,You are the worst person I've ever met.,0.94,toxic,True
+MSG00621,2024-09-17 04:22:12,Twitter,user_0088,Get lost you absolute loser.,0.78,toxic,True
+MSG00622,2024-03-03 16:48:55,Discord,user_0187,You are a total failure at everything.,0.71,toxic,True
+MSG00623,2024-02-21 05:57:03,YouTube,user_0184,You're a disgusting human being.,0.86,toxic,True
+MSG00624,2024-07-05 14:37:19,YouTube,user_0076,I can't stand your ugly face.,0.84,toxic,True
+MSG00625,2024-05-02 14:41:33,Twitter,user_0094,Everyone thinks you're pathetic.,0.78,toxic,True
+MSG00626,2024-09-19 08:21:19,Twitter,user_0008,Let me know if you need anything.,0.32,clean,False
+MSG00627,2024-03-23 05:09:07,Discord,user_0147,The weather is really nice today.,0.05,clean,False
+MSG00628,2024-09-01 11:40:11,Twitter,user_0099,Can you send me the report please?,0.15,clean,False
+MSG00629,2024-05-16 00:55:59,Reddit,user_0014,Looking forward to the weekend.,0.25,clean,False
+MSG00630,2024-06-27 10:49:44,Facebook,user_0024,Looking forward to the weekend.,0.01,clean,False
+MSG00631,2024-09-19 21:21:09,Telegram,user_0060,You are the worst person I've ever met.,0.77,toxic,True
+MSG00632,2024-08-07 06:30:11,Facebook,user_0024,I finished the project early.,0.37,clean,False
+MSG00633,2024-02-21 00:02:47,Reddit,user_0024,Please review my pull request.,0.21,clean,False
+MSG00634,2024-05-14 13:39:19,Reddit,user_0197,Can we reschedule for tomorrow?,0.25,clean,False
+MSG00635,2024-04-07 04:49:01,YouTube,user_0099,Thanks for the help earlier!,0.13,clean,False
+MSG00636,2024-05-13 05:45:30,Reddit,user_0085,I despise everything about you.,0.72,toxic,True
+MSG00637,2024-06-12 12:40:05,Reddit,user_0153,Get lost you absolute loser.,0.75,toxic,True
+MSG00638,2024-08-14 15:37:48,Reddit,user_0136,You are the worst person I've ever met.,0.94,toxic,True
+MSG00639,2024-08-19 03:33:50,Discord,user_0057,The weather is really nice today.,0.23,clean,False
+MSG00640,2024-10-02 14:14:26,Twitter,user_0139,You are the worst person I've ever met.,0.97,toxic,True
+MSG00641,2024-05-16 21:41:25,YouTube,user_0061,"Nobody wants you around, just leave.",0.96,toxic,True
+MSG00642,2024-10-19 18:55:16,YouTube,user_0186,Great job on the presentation.,0.33,clean,False
+MSG00643,2024-05-12 04:09:53,Discord,user_0105,"This is garbage, fix it already.",0.58,borderline,True
+MSG00644,2024-06-07 07:55:16,Reddit,user_0029,Drop dead already you worthless jerk.,0.7,toxic,True
+MSG00645,2024-01-13 14:59:43,YouTube,user_0033,I hate waiting so long for replies.,0.44,borderline,False
+MSG00646,2024-01-13 09:33:44,Telegram,user_0138,Thanks for the help earlier!,0.11,clean,False
+MSG00647,2024-11-22 02:37:42,YouTube,user_0176,Great job on the presentation.,0.0,clean,False
+MSG00648,2024-10-20 12:39:49,Facebook,user_0097,I despise everything about you.,0.91,toxic,True
+MSG00649,2024-02-17 08:13:08,Twitter,user_0084,Let me know if you need anything.,0.3,clean,False
+MSG00650,2024-06-11 19:34:11,Reddit,user_0141,What time does the meeting start?,0.02,clean,False
+MSG00651,2024-11-11 00:46:07,YouTube,user_0162,This is an amazing opportunity.,0.24,clean,False
+MSG00652,2024-02-01 10:21:57,YouTube,user_0146,Can we reschedule for tomorrow?,0.35,clean,False
+MSG00653,2024-12-03 14:12:54,YouTube,user_0006,Please review my pull request.,0.02,clean,False
+MSG00654,2024-03-24 02:53:13,YouTube,user_0150,I hope you suffer for what you did.,0.92,toxic,True
+MSG00655,2024-06-14 01:20:13,Facebook,user_0160,You are a total failure at everything.,0.86,toxic,True
+MSG00656,2024-09-05 08:54:15,Telegram,user_0036,I'm so frustrated with this product.,0.48,borderline,False
+MSG00657,2024-10-26 14:42:43,Reddit,user_0013,Have a great day everyone!,0.34,clean,False
+MSG00658,2024-01-08 12:05:09,Twitter,user_0007,I hope you suffer for what you did.,0.96,toxic,True
+MSG00659,2024-11-08 12:52:11,Twitter,user_0102,Shut up you stupid moron.,0.84,toxic,True
+MSG00660,2024-05-20 16:18:23,Discord,user_0084,Everyone thinks you're pathetic.,0.83,toxic,True
+MSG00661,2024-05-03 21:48:05,Twitter,user_0015,What time does the meeting start?,0.36,clean,False
+MSG00662,2024-07-09 12:02:50,Telegram,user_0061,I'll be there in 10 minutes.,0.36,clean,False
+MSG00663,2024-03-31 14:07:03,Reddit,user_0071,Why is everything always broken here?,0.61,borderline,True
+MSG00664,2024-01-02 22:19:46,Discord,user_0036,Have a great day everyone!,0.39,clean,False
+MSG00665,2024-03-08 20:57:06,Discord,user_0042,I can't stand your ugly face.,0.94,toxic,True
+MSG00666,2024-07-09 18:32:19,Reddit,user_0128,Can you send me the report please?,0.11,clean,False
+MSG00667,2024-07-03 21:15:25,Reddit,user_0068,"Hey, how are you doing today?",0.3,clean,False
+MSG00668,2024-12-27 17:40:22,Facebook,user_0174,"I hate you so much, you're worthless.",0.75,toxic,True
+MSG00669,2024-07-22 06:39:33,Telegram,user_0105,You are a total failure at everything.,0.97,toxic,True
+MSG00670,2024-06-28 10:40:26,Reddit,user_0168,I can't stand your ugly face.,0.81,toxic,True
+MSG00671,2024-11-17 10:44:10,Facebook,user_0102,Let me know if you need anything.,0.23,clean,False
+MSG00672,2024-04-07 22:59:55,Twitter,user_0194,Get lost you absolute loser.,0.93,toxic,True
+MSG00673,2024-05-21 12:33:43,Discord,user_0182,I finished the project early.,0.22,clean,False
+MSG00674,2024-11-07 08:20:46,Twitter,user_0112,"Nobody wants you around, just leave.",0.89,toxic,True
+MSG00675,2024-05-03 04:18:52,Discord,user_0042,"This is garbage, fix it already.",0.68,borderline,True
+MSG00676,2024-07-31 22:01:37,YouTube,user_0099,I'll be there in 10 minutes.,0.31,clean,False
+MSG00677,2024-08-07 14:06:34,Facebook,user_0024,"You are such an idiot, get out of here!",0.87,toxic,True
+MSG00678,2024-12-13 12:14:10,Twitter,user_0195,"You make me sick, stop talking.",0.8,toxic,True
+MSG00679,2024-01-06 10:05:00,YouTube,user_0126,Please review my pull request.,0.13,clean,False
+MSG00680,2024-04-22 15:22:37,Reddit,user_0163,The weather is really nice today.,0.03,clean,False
+MSG00681,2024-08-26 07:28:09,Twitter,user_0184,You are a complete waste of space.,0.98,toxic,True
+MSG00682,2024-12-20 09:34:54,Twitter,user_0089,I don't really like how this works.,0.41,borderline,False
+MSG00683,2024-11-22 04:08:01,Discord,user_0142,"You make me sick, stop talking.",0.95,toxic,True
+MSG00684,2024-08-11 12:25:22,Telegram,user_0117,"You make me sick, stop talking.",0.92,toxic,True
+MSG00685,2024-08-25 16:16:26,Facebook,user_0170,I need help with this task.,0.02,clean,False
+MSG00686,2024-11-17 03:20:13,Reddit,user_0023,Please review my pull request.,0.09,clean,False
+MSG00687,2024-03-04 18:39:06,Reddit,user_0027,Shut up you stupid moron.,0.75,toxic,True
+MSG00688,2024-09-21 19:45:17,Discord,user_0117,I'll be there in 10 minutes.,0.26,clean,False
+MSG00689,2024-05-23 11:37:53,YouTube,user_0118,Please review my pull request.,0.14,clean,False
+MSG00690,2024-12-14 02:50:46,YouTube,user_0134,"You're beyond stupid, learn to think.",0.92,toxic,True
+MSG00691,2024-01-02 15:17:01,Reddit,user_0128,You're a disgusting human being.,0.84,toxic,True
+MSG00692,2024-08-18 18:25:31,Reddit,user_0018,"I hate you so much, you're worthless.",0.84,toxic,True
+MSG00693,2024-01-14 08:59:33,YouTube,user_0020,Can you send me the report please?,0.08,clean,False
+MSG00694,2024-04-28 22:20:41,Telegram,user_0154,This is the worst app I've ever used.,0.68,borderline,True
+MSG00695,2024-08-21 11:38:57,Discord,user_0171,"This is garbage, fix it already.",0.45,borderline,False
+MSG00696,2024-05-19 20:17:17,Reddit,user_0157,Drop dead already you worthless jerk.,0.92,toxic,True
+MSG00697,2024-02-03 12:14:11,YouTube,user_0131,Looking forward to the weekend.,0.02,clean,False
+MSG00698,2024-07-23 04:14:35,Discord,user_0146,"This is garbage, fix it already.",0.6,borderline,True
+MSG00699,2024-08-28 20:04:38,YouTube,user_0023,I'm so frustrated with this product.,0.61,borderline,True
+MSG00700,2024-07-07 04:55:04,Reddit,user_0017,Looking forward to the weekend.,0.22,clean,False
+MSG00701,2024-05-23 18:06:13,Telegram,user_0184,I'll be there in 10 minutes.,0.1,clean,False
+MSG00702,2024-09-18 11:47:17,Twitter,user_0003,What time does the meeting start?,0.13,clean,False
+MSG00703,2024-12-11 23:38:28,Discord,user_0113,Drop dead already you worthless jerk.,0.95,toxic,True
+MSG00704,2024-02-19 10:12:01,YouTube,user_0164,Great job on the presentation.,0.1,clean,False
+MSG00705,2024-04-02 06:38:10,Discord,user_0062,"You're beyond stupid, learn to think.",0.95,toxic,True
+MSG00706,2024-08-29 23:51:39,Facebook,user_0179,Great job on the presentation.,0.04,clean,False
+MSG00707,2024-11-21 14:05:42,Discord,user_0184,The weather is really nice today.,0.17,clean,False
+MSG00708,2024-02-13 03:31:18,Twitter,user_0199,I'm so frustrated with this product.,0.59,borderline,True
+MSG00709,2024-04-18 23:41:35,Facebook,user_0039,Your team is really disappointing me.,0.62,borderline,True
+MSG00710,2024-10-27 00:14:49,YouTube,user_0076,Drop dead already you worthless jerk.,0.88,toxic,True
+MSG00711,2024-09-19 18:12:04,Reddit,user_0029,"This is garbage, fix it already.",0.5,borderline,True
+MSG00712,2024-03-15 05:41:53,Telegram,user_0039,"Hey, how are you doing today?",0.25,clean,False
+MSG00713,2024-10-13 20:00:04,Facebook,user_0124,This is so freaking annoying!,0.49,borderline,False
+MSG00714,2024-12-05 17:53:55,Discord,user_0152,"I hate you so much, you're worthless.",0.92,toxic,True
+MSG00715,2024-12-10 17:59:02,Twitter,user_0054,I need help with this task.,0.19,clean,False
+MSG00716,2024-04-18 02:38:09,Discord,user_0075,I hope you suffer for what you did.,0.84,toxic,True
+MSG00717,2024-06-21 16:33:07,Facebook,user_0018,I despise everything about you.,0.91,toxic,True
+MSG00718,2024-11-29 14:14:34,YouTube,user_0102,Your team is really disappointing me.,0.69,borderline,True
+MSG00719,2024-06-28 15:28:27,Facebook,user_0137,I'm so frustrated with this product.,0.69,borderline,True
+MSG00720,2024-10-09 05:26:53,Telegram,user_0053,Drop dead already you worthless jerk.,0.86,toxic,True
+MSG00721,2024-12-09 09:13:40,Facebook,user_0111,Thanks for the help earlier!,0.28,clean,False
+MSG00722,2024-07-21 20:47:36,Twitter,user_0139,Great job on the presentation.,0.05,clean,False
+MSG00723,2024-02-26 12:30:31,Facebook,user_0083,I'll be there in 10 minutes.,0.3,clean,False
+MSG00724,2024-05-26 03:27:35,Discord,user_0020,I finished the project early.,0.3,clean,False
+MSG00725,2024-10-12 04:52:03,Reddit,user_0119,This is the worst app I've ever used.,0.56,borderline,True
+MSG00726,2024-05-04 21:27:04,Telegram,user_0101,Get lost you absolute loser.,0.84,toxic,True
+MSG00727,2024-07-05 06:30:46,Facebook,user_0144,"Hey, how are you doing today?",0.31,clean,False
+MSG00728,2024-10-16 02:24:53,Facebook,user_0149,I'll be there in 10 minutes.,0.26,clean,False
+MSG00729,2024-02-06 08:10:23,Twitter,user_0026,This service is pretty bad honestly.,0.57,borderline,True
+MSG00730,2024-05-02 09:46:08,YouTube,user_0146,What time does the meeting start?,0.19,clean,False
+MSG00731,2024-11-27 20:33:18,Telegram,user_0144,Drop dead already you worthless jerk.,0.86,toxic,True
+MSG00732,2024-07-14 13:39:41,Telegram,user_0112,This service is pretty bad honestly.,0.68,borderline,True
+MSG00733,2024-03-17 19:06:10,Discord,user_0116,I finished the project early.,0.06,clean,False
+MSG00734,2024-10-23 08:28:13,Twitter,user_0078,I hate waiting so long for replies.,0.52,borderline,True
+MSG00735,2024-02-26 14:30:18,YouTube,user_0104,This is the worst app I've ever used.,0.44,borderline,False
+MSG00736,2024-12-24 13:54:38,YouTube,user_0076,This is so freaking annoying!,0.44,borderline,False
+MSG00737,2024-01-26 10:17:20,YouTube,user_0064,Get lost you absolute loser.,0.99,toxic,True
+MSG00738,2024-03-22 22:38:26,Reddit,user_0155,I need help with this task.,0.18,clean,False
+MSG00739,2024-02-11 20:43:22,Telegram,user_0005,I will destroy you if you show up.,0.84,toxic,True
+MSG00740,2024-11-29 22:00:35,Reddit,user_0107,I need help with this task.,0.1,clean,False
+MSG00741,2024-11-12 08:05:28,Facebook,user_0188,This service is pretty bad honestly.,0.62,borderline,True
+MSG00742,2024-09-20 09:29:27,YouTube,user_0029,I will destroy you if you show up.,0.75,toxic,True
+MSG00743,2024-07-18 06:53:41,Facebook,user_0185,Great job on the presentation.,0.12,clean,False
+MSG00744,2024-10-17 21:55:49,Discord,user_0144,"You're beyond stupid, learn to think.",0.72,toxic,True
+MSG00745,2024-08-30 00:28:35,Facebook,user_0064,You are so freaking dumb it hurts.,0.86,toxic,True
+MSG00746,2024-08-20 08:44:08,Facebook,user_0006,"I hate you so much, you're worthless.",0.93,toxic,True
+MSG00747,2024-11-24 22:43:50,Facebook,user_0069,This is so freaking annoying!,0.49,borderline,False
+MSG00748,2024-05-27 16:15:20,YouTube,user_0075,You dumb piece of trash.,0.91,toxic,True
+MSG00749,2024-04-05 23:58:33,Reddit,user_0018,Thanks for the help earlier!,0.23,clean,False
+MSG00750,2024-07-06 11:50:30,Telegram,user_0127,This is so freaking annoying!,0.56,borderline,True
+MSG00751,2024-10-28 00:28:42,Facebook,user_0184,Drop dead already you worthless jerk.,0.78,toxic,True
+MSG00752,2024-02-04 16:19:36,Discord,user_0192,I hope you suffer for what you did.,0.73,toxic,True
+MSG00753,2024-07-21 15:30:13,YouTube,user_0010,What time does the meeting start?,0.19,clean,False
+MSG00754,2024-04-05 08:33:21,Twitter,user_0027,I hope you suffer for what you did.,0.95,toxic,True
+MSG00755,2024-08-17 14:42:15,YouTube,user_0054,This is so freaking annoying!,0.63,borderline,True
+MSG00756,2024-08-20 22:04:25,Facebook,user_0070,You are the worst person I've ever met.,0.91,toxic,True
+MSG00757,2024-10-22 17:37:58,Discord,user_0189,This service is pretty bad honestly.,0.49,borderline,False
+MSG00758,2024-10-02 13:12:35,Facebook,user_0029,"I hate you so much, you're worthless.",0.9,toxic,True
+MSG00759,2024-01-08 02:32:58,Twitter,user_0153,Great job on the presentation.,0.34,clean,False
+MSG00760,2024-07-07 21:45:15,Telegram,user_0026,I finished the project early.,0.31,clean,False
+MSG00761,2024-10-20 23:14:44,Telegram,user_0078,I hate waiting so long for replies.,0.53,borderline,True
+MSG00762,2024-03-18 06:18:29,Facebook,user_0130,Let me know if you need anything.,0.18,clean,False
+MSG00763,2024-02-18 11:44:04,Facebook,user_0035,I can't stand your ugly face.,1.0,toxic,True
+MSG00764,2024-05-31 09:24:22,YouTube,user_0057,"This is garbage, fix it already.",0.6,borderline,True
+MSG00765,2024-02-10 19:57:42,YouTube,user_0166,Great job on the presentation.,0.28,clean,False
+MSG00766,2024-01-04 15:39:24,Facebook,user_0184,I'll be there in 10 minutes.,0.27,clean,False
+MSG00767,2024-05-03 06:11:23,Telegram,user_0046,You are a total failure at everything.,0.92,toxic,True
+MSG00768,2024-06-30 15:04:26,Telegram,user_0148,You're a disgusting human being.,0.95,toxic,True
+MSG00769,2024-11-21 22:48:02,YouTube,user_0119,"You make me sick, stop talking.",0.71,toxic,True
+MSG00770,2024-05-17 02:43:43,Telegram,user_0115,I finished the project early.,0.35,clean,False
+MSG00771,2024-02-22 19:19:20,Discord,user_0020,"You're beyond stupid, learn to think.",0.84,toxic,True
+MSG00772,2024-01-31 21:39:41,Twitter,user_0085,Why is everything always broken here?,0.57,borderline,True
+MSG00773,2024-08-25 16:34:19,YouTube,user_0019,I finished the project early.,0.33,clean,False
+MSG00774,2024-11-08 23:20:23,Discord,user_0137,You are the worst person I've ever met.,0.86,toxic,True
+MSG00775,2024-02-15 13:30:21,Twitter,user_0163,I need help with this task.,0.32,clean,False
+MSG00776,2024-05-31 13:23:08,Discord,user_0182,"You make me sick, stop talking.",0.94,toxic,True
+MSG00777,2024-10-02 18:15:03,Discord,user_0139,I hope you suffer for what you did.,0.91,toxic,True
+MSG00778,2024-06-08 22:00:18,Telegram,user_0172,"You make me sick, stop talking.",0.79,toxic,True
+MSG00779,2024-02-11 12:22:05,Reddit,user_0123,"You're beyond stupid, learn to think.",0.87,toxic,True
+MSG00780,2024-08-09 17:51:11,Twitter,user_0004,Can we reschedule for tomorrow?,0.01,clean,False
+MSG00781,2024-04-23 05:14:20,YouTube,user_0053,You are a total failure at everything.,0.86,toxic,True
+MSG00782,2024-06-03 21:46:53,Discord,user_0043,The weather is really nice today.,0.3,clean,False
+MSG00783,2024-07-17 23:25:25,Telegram,user_0039,What time does the meeting start?,0.14,clean,False
+MSG00784,2024-06-23 11:33:26,Telegram,user_0170,I'm so frustrated with this product.,0.43,borderline,False
+MSG00785,2024-06-27 15:37:30,Reddit,user_0136,Get lost you absolute loser.,0.8,toxic,True
+MSG00786,2024-10-13 06:55:46,Facebook,user_0104,Looking forward to the weekend.,0.35,clean,False
+MSG00787,2024-11-26 11:03:55,Facebook,user_0199,Looking forward to the weekend.,0.29,clean,False
+MSG00788,2024-05-21 04:38:12,Reddit,user_0118,I hate waiting so long for replies.,0.45,borderline,False
+MSG00789,2024-07-05 08:20:56,Reddit,user_0171,You are a complete waste of space.,0.9,toxic,True
+MSG00790,2024-02-24 21:58:05,YouTube,user_0131,I despise everything about you.,0.78,toxic,True
+MSG00791,2024-01-08 03:45:02,Reddit,user_0131,You are a total failure at everything.,0.86,toxic,True
+MSG00792,2024-09-25 11:41:52,Telegram,user_0149,Please review my pull request.,0.14,clean,False
+MSG00793,2024-12-19 18:43:01,Telegram,user_0024,Your team is really disappointing me.,0.46,borderline,False
+MSG00794,2024-09-03 21:21:13,Telegram,user_0134,This is the worst app I've ever used.,0.64,borderline,True
+MSG00795,2024-07-30 13:42:59,Facebook,user_0150,I need help with this task.,0.21,clean,False
+MSG00796,2024-03-04 06:08:47,Twitter,user_0026,"Hey, how are you doing today?",0.03,clean,False
+MSG00797,2024-06-17 03:41:19,Telegram,user_0188,Can we reschedule for tomorrow?,0.09,clean,False
+MSG00798,2024-06-23 05:24:15,Telegram,user_0019,Please review my pull request.,0.27,clean,False
+MSG00799,2024-05-02 15:21:57,Discord,user_0024,Please review my pull request.,0.2,clean,False
+MSG00800,2024-06-04 16:46:38,Twitter,user_0093,I'm so frustrated with this product.,0.46,borderline,False
+MSG00801,2024-11-16 20:24:16,Twitter,user_0091,Great job on the presentation.,0.27,clean,False
+MSG00802,2024-11-27 09:34:48,Twitter,user_0109,"Hey, how are you doing today?",0.35,clean,False
+MSG00803,2024-01-14 05:47:21,Discord,user_0134,Let me know if you need anything.,0.07,clean,False
+MSG00804,2024-04-03 06:56:35,Discord,user_0046,I need help with this task.,0.26,clean,False
+MSG00805,2024-01-28 03:41:04,Twitter,user_0024,This is the worst app I've ever used.,0.49,borderline,False
+MSG00806,2024-06-30 19:57:13,Discord,user_0140,Everyone thinks you're pathetic.,0.74,toxic,True
+MSG00807,2024-03-13 01:34:47,Facebook,user_0062,This is an amazing opportunity.,0.26,clean,False
+MSG00808,2024-09-19 19:10:13,Facebook,user_0195,Let me know if you need anything.,0.11,clean,False
+MSG00809,2024-04-23 19:18:05,Twitter,user_0034,I finished the project early.,0.24,clean,False
+MSG00810,2024-01-19 00:07:36,YouTube,user_0004,Great job on the presentation.,0.13,clean,False
+MSG00811,2024-02-04 18:15:15,Reddit,user_0100,Drop dead already you worthless jerk.,0.98,toxic,True
+MSG00812,2024-03-14 04:09:11,YouTube,user_0057,"I hate you so much, you're worthless.",0.89,toxic,True
+MSG00813,2024-03-27 00:36:09,Twitter,user_0152,Can we reschedule for tomorrow?,0.1,clean,False
+MSG00814,2024-08-07 04:54:02,Discord,user_0092,You're a disgusting human being.,0.85,toxic,True
+MSG00815,2024-08-03 00:28:36,Discord,user_0128,I'll be there in 10 minutes.,0.28,clean,False
+MSG00816,2024-10-05 10:24:40,Facebook,user_0024,I finished the project early.,0.04,clean,False
+MSG00817,2024-10-27 04:50:53,Facebook,user_0146,Let me know if you need anything.,0.22,clean,False
+MSG00818,2024-04-10 03:26:38,YouTube,user_0133,I despise everything about you.,0.88,toxic,True
+MSG00819,2024-09-09 02:50:02,Telegram,user_0119,You dumb piece of trash.,0.79,toxic,True
+MSG00820,2024-12-06 08:46:14,Twitter,user_0006,"You are such an idiot, get out of here!",0.78,toxic,True
+MSG00821,2024-02-28 17:33:34,Facebook,user_0096,"I hate you so much, you're worthless.",0.98,toxic,True
+MSG00822,2024-07-18 07:17:23,Twitter,user_0149,I'll be there in 10 minutes.,0.0,clean,False
+MSG00823,2024-11-24 15:02:05,Telegram,user_0072,This service is pretty bad honestly.,0.45,borderline,False
+MSG00824,2024-09-19 10:25:14,Facebook,user_0032,I need help with this task.,0.36,clean,False
+MSG00825,2024-01-19 08:15:43,Discord,user_0116,I despise everything about you.,0.76,toxic,True
+MSG00826,2024-05-23 03:57:31,Telegram,user_0113,This is the worst app I've ever used.,0.46,borderline,False
+MSG00827,2024-12-25 05:20:49,YouTube,user_0189,I need help with this task.,0.12,clean,False
+MSG00828,2024-09-07 03:30:36,Discord,user_0126,This is an amazing opportunity.,0.14,clean,False
+MSG00829,2024-10-21 16:28:06,YouTube,user_0154,"Hey, how are you doing today?",0.35,clean,False
+MSG00830,2024-01-27 09:32:34,Discord,user_0021,You're a disgusting human being.,0.89,toxic,True
+MSG00831,2024-08-05 01:18:24,Twitter,user_0111,Everyone thinks you're pathetic.,0.79,toxic,True
+MSG00832,2024-07-07 05:01:32,Telegram,user_0016,Can we reschedule for tomorrow?,0.03,clean,False
+MSG00833,2024-04-30 17:33:22,Discord,user_0190,Looking forward to the weekend.,0.13,clean,False
+MSG00834,2024-09-11 15:35:13,Telegram,user_0003,Can you send me the report please?,0.3,clean,False
+MSG00835,2024-07-15 17:38:05,Discord,user_0111,Get lost you absolute loser.,0.73,toxic,True
+MSG00836,2024-07-07 14:15:50,Telegram,user_0030,You're a disgusting human being.,0.8,toxic,True
+MSG00837,2024-01-03 00:57:36,YouTube,user_0028,"I hate you so much, you're worthless.",0.86,toxic,True
+MSG00838,2024-02-29 13:13:22,Reddit,user_0080,Looking forward to the weekend.,0.05,clean,False
+MSG00839,2024-02-19 09:43:08,Discord,user_0138,What time does the meeting start?,0.14,clean,False
+MSG00840,2024-12-10 05:23:44,Discord,user_0016,Your idea is kind of dumb tbh.,0.64,borderline,True
+MSG00841,2024-04-24 02:33:58,Telegram,user_0135,Your team is really disappointing me.,0.41,borderline,False
+MSG00842,2024-02-17 12:04:06,Reddit,user_0044,The weather is really nice today.,0.04,clean,False
+MSG00843,2024-01-12 17:23:37,Discord,user_0054,Looking forward to the weekend.,0.31,clean,False
+MSG00844,2024-03-19 03:20:00,Discord,user_0167,Can you send me the report please?,0.22,clean,False
+MSG00845,2024-10-05 15:39:01,Facebook,user_0034,Great job on the presentation.,0.3,clean,False
+MSG00846,2024-01-24 14:31:38,Twitter,user_0047,Drop dead already you worthless jerk.,0.84,toxic,True
+MSG00847,2024-02-19 05:45:07,Twitter,user_0141,Can we reschedule for tomorrow?,0.14,clean,False
+MSG00848,2024-05-07 11:44:49,Telegram,user_0015,Shut up you stupid moron.,0.72,toxic,True
+MSG00849,2024-02-18 20:18:45,Telegram,user_0008,Your idea is kind of dumb tbh.,0.49,borderline,False
+MSG00850,2024-12-22 02:14:41,Telegram,user_0115,Your team is really disappointing me.,0.67,borderline,True
+MSG00851,2024-03-15 09:54:30,Telegram,user_0058,"Nobody wants you around, just leave.",1.0,toxic,True
+MSG00852,2024-10-02 11:19:19,Telegram,user_0146,Have a great day everyone!,0.2,clean,False
+MSG00853,2024-10-24 13:22:23,Discord,user_0134,Your idea is kind of dumb tbh.,0.59,borderline,True
+MSG00854,2024-05-23 23:56:21,Discord,user_0043,Shut up you stupid moron.,1.0,toxic,True
+MSG00855,2024-01-03 15:35:06,Twitter,user_0030,Looking forward to the weekend.,0.02,clean,False
+MSG00856,2024-05-24 11:25:28,Facebook,user_0172,Let me know if you need anything.,0.26,clean,False
+MSG00857,2024-07-27 10:45:09,Twitter,user_0184,I despise everything about you.,0.97,toxic,True
+MSG00858,2024-02-02 05:52:15,Reddit,user_0160,"You are such an idiot, get out of here!",0.77,toxic,True
+MSG00859,2024-12-12 01:36:47,Discord,user_0182,I don't really like how this works.,0.43,borderline,False
+MSG00860,2024-12-27 18:50:28,Facebook,user_0138,You are a complete waste of space.,0.7,toxic,True
+MSG00861,2024-12-20 12:47:10,YouTube,user_0174,I hate waiting so long for replies.,0.57,borderline,True
+MSG00862,2024-05-24 07:16:13,Twitter,user_0031,The weather is really nice today.,0.26,clean,False
+MSG00863,2024-06-25 11:35:45,Discord,user_0018,I finished the project early.,0.12,clean,False
+MSG00864,2024-02-06 06:15:59,Telegram,user_0004,The weather is really nice today.,0.38,clean,False
+MSG00865,2024-12-27 09:36:48,Twitter,user_0061,Shut up you stupid moron.,0.91,toxic,True
+MSG00866,2024-07-17 14:11:23,Facebook,user_0162,"Nobody wants you around, just leave.",0.75,toxic,True
+MSG00867,2024-09-08 23:54:09,Discord,user_0052,This is so freaking annoying!,0.48,borderline,False
+MSG00868,2024-06-28 04:38:52,Telegram,user_0003,I can't stand your ugly face.,0.94,toxic,True
+MSG00869,2024-06-01 02:08:22,Facebook,user_0011,Drop dead already you worthless jerk.,0.78,toxic,True
+MSG00870,2024-05-18 16:31:35,Discord,user_0131,This is an amazing opportunity.,0.05,clean,False
+MSG00871,2024-06-16 13:20:08,Telegram,user_0009,I will destroy you if you show up.,0.81,toxic,True
+MSG00872,2024-02-09 19:44:23,Telegram,user_0001,Great job on the presentation.,0.17,clean,False
+MSG00873,2024-01-03 17:39:23,Facebook,user_0021,I'll be there in 10 minutes.,0.34,clean,False
+MSG00874,2024-01-08 16:49:22,YouTube,user_0014,I need help with this task.,0.3,clean,False
+MSG00875,2024-08-07 21:12:30,Discord,user_0043,This is the worst app I've ever used.,0.48,borderline,False
+MSG00876,2024-10-02 12:03:54,Reddit,user_0034,I can't stand your ugly face.,0.85,toxic,True
+MSG00877,2024-11-20 01:36:56,Twitter,user_0043,This is so freaking annoying!,0.52,borderline,True
+MSG00878,2024-07-21 05:05:51,Telegram,user_0142,I despise everything about you.,0.81,toxic,True
+MSG00879,2024-11-19 22:15:07,Discord,user_0020,Please review my pull request.,0.22,clean,False
+MSG00880,2024-03-21 22:19:16,Discord,user_0138,Thanks for the help earlier!,0.11,clean,False
+MSG00881,2024-11-08 18:27:13,YouTube,user_0168,I need help with this task.,0.12,clean,False
+MSG00882,2024-10-11 18:31:26,YouTube,user_0060,Looking forward to the weekend.,0.08,clean,False
+MSG00883,2024-07-16 05:45:23,Discord,user_0087,Looking forward to the weekend.,0.33,clean,False
+MSG00884,2024-09-07 23:03:28,Discord,user_0096,I hate waiting so long for replies.,0.62,borderline,True
+MSG00885,2024-03-07 10:45:53,Discord,user_0191,"You make me sick, stop talking.",0.77,toxic,True
+MSG00886,2024-10-31 10:55:16,Facebook,user_0138,Why is everything always broken here?,0.41,borderline,False
+MSG00887,2024-03-02 21:22:23,Reddit,user_0029,You're a disgusting human being.,0.75,toxic,True
+MSG00888,2024-02-29 04:43:25,Discord,user_0017,Shut up you stupid moron.,0.83,toxic,True
+MSG00889,2024-08-24 18:21:41,Telegram,user_0131,Shut up you stupid moron.,0.88,toxic,True
+MSG00890,2024-10-21 21:15:01,Telegram,user_0157,The weather is really nice today.,0.38,clean,False
+MSG00891,2024-11-11 21:40:06,Reddit,user_0096,The weather is really nice today.,0.22,clean,False
+MSG00892,2024-09-21 08:53:38,Twitter,user_0087,This is the worst app I've ever used.,0.59,borderline,True
+MSG00893,2024-11-01 20:54:25,Facebook,user_0147,Can we reschedule for tomorrow?,0.05,clean,False
+MSG00894,2024-05-16 09:04:04,Facebook,user_0131,Can you send me the report please?,0.12,clean,False
+MSG00895,2024-01-22 10:16:56,Reddit,user_0199,Let me know if you need anything.,0.34,clean,False
+MSG00896,2024-12-07 15:22:49,YouTube,user_0143,Drop dead already you worthless jerk.,0.75,toxic,True
+MSG00897,2024-03-31 03:00:25,Twitter,user_0052,Your idea is kind of dumb tbh.,0.46,borderline,False
+MSG00898,2024-02-11 16:19:59,Facebook,user_0148,The weather is really nice today.,0.39,clean,False
+MSG00899,2024-08-05 07:11:52,Discord,user_0022,I'm so frustrated with this product.,0.63,borderline,True
+MSG00900,2024-04-18 06:41:32,Telegram,user_0120,"You're beyond stupid, learn to think.",0.78,toxic,True
+MSG00901,2024-04-25 15:12:50,YouTube,user_0076,"This is garbage, fix it already.",0.58,borderline,True
+MSG00902,2024-09-08 11:32:55,Facebook,user_0141,I will destroy you if you show up.,0.83,toxic,True
+MSG00903,2024-03-20 19:09:24,YouTube,user_0175,I'll be there in 10 minutes.,0.35,clean,False
+MSG00904,2024-06-10 22:28:50,Telegram,user_0184,Great job on the presentation.,0.31,clean,False
+MSG00905,2024-09-02 12:00:23,Telegram,user_0069,"Nobody wants you around, just leave.",0.95,toxic,True
+MSG00906,2024-02-24 00:37:07,Reddit,user_0144,Your idea is kind of dumb tbh.,0.61,borderline,True
+MSG00907,2024-12-29 01:44:59,Facebook,user_0080,You dumb piece of trash.,0.93,toxic,True
+MSG00908,2024-11-29 06:29:20,YouTube,user_0184,Can we reschedule for tomorrow?,0.05,clean,False
+MSG00909,2024-03-10 17:54:28,Twitter,user_0164,You are the worst person I've ever met.,0.85,toxic,True
+MSG00910,2024-01-17 09:51:52,Telegram,user_0057,You are a total failure at everything.,0.8,toxic,True
+MSG00911,2024-03-24 03:37:44,Telegram,user_0061,Can we reschedule for tomorrow?,0.17,clean,False
+MSG00912,2024-04-07 15:49:15,YouTube,user_0151,Thanks for the help earlier!,0.19,clean,False
+MSG00913,2024-10-13 06:24:08,Facebook,user_0044,What time does the meeting start?,0.23,clean,False
+MSG00914,2024-05-06 03:43:40,YouTube,user_0054,Get lost you absolute loser.,0.73,toxic,True
+MSG00915,2024-02-21 18:37:42,Facebook,user_0096,"You make me sick, stop talking.",0.97,toxic,True
+MSG00916,2024-01-05 14:35:39,YouTube,user_0080,This is an amazing opportunity.,0.07,clean,False
+MSG00917,2024-08-25 11:23:38,Reddit,user_0093,This is the worst app I've ever used.,0.69,borderline,True
+MSG00918,2024-12-08 05:06:37,Discord,user_0198,Have a great day everyone!,0.02,clean,False
+MSG00919,2024-09-21 09:36:37,Facebook,user_0062,Looking forward to the weekend.,0.21,clean,False
+MSG00920,2024-02-08 04:29:30,Twitter,user_0135,Get lost you absolute loser.,0.8,toxic,True
+MSG00921,2024-03-14 04:36:31,YouTube,user_0098,This is the worst app I've ever used.,0.47,borderline,False
+MSG00922,2024-10-04 11:54:15,Reddit,user_0045,"You are such an idiot, get out of here!",0.94,toxic,True
+MSG00923,2024-02-13 16:09:25,Telegram,user_0139,"I hate you so much, you're worthless.",0.97,toxic,True
+MSG00924,2024-09-15 09:45:59,Discord,user_0134,Drop dead already you worthless jerk.,0.79,toxic,True
+MSG00925,2024-12-04 15:30:38,Discord,user_0044,I will destroy you if you show up.,0.96,toxic,True
+MSG00926,2024-11-09 11:57:19,Facebook,user_0141,This service is pretty bad honestly.,0.58,borderline,True
+MSG00927,2024-12-10 03:08:01,Twitter,user_0169,You are the worst person I've ever met.,0.84,toxic,True
+MSG00928,2024-05-11 10:58:38,Discord,user_0061,I finished the project early.,0.02,clean,False
+MSG00929,2024-02-14 09:28:12,Reddit,user_0085,Looking forward to the weekend.,0.0,clean,False
+MSG00930,2024-01-13 07:17:44,Reddit,user_0051,I don't really like how this works.,0.49,borderline,False
+MSG00931,2024-04-06 17:09:49,Twitter,user_0160,This is an amazing opportunity.,0.3,clean,False
+MSG00932,2024-03-13 16:51:33,Twitter,user_0156,I hope you suffer for what you did.,0.9,toxic,True
+MSG00933,2024-05-04 08:59:49,Discord,user_0068,Great job on the presentation.,0.07,clean,False
+MSG00934,2024-07-14 10:20:20,YouTube,user_0098,What time does the meeting start?,0.18,clean,False
+MSG00935,2024-12-03 01:26:27,YouTube,user_0127,I hope you suffer for what you did.,0.88,toxic,True
+MSG00936,2024-04-11 18:54:14,Discord,user_0048,You are a total failure at everything.,0.73,toxic,True
+MSG00937,2024-11-09 20:06:06,Reddit,user_0174,This is so freaking annoying!,0.4,borderline,False
+MSG00938,2024-08-14 11:21:26,Discord,user_0142,This is an amazing opportunity.,0.35,clean,False
+MSG00939,2024-08-08 20:47:09,Facebook,user_0059,Your idea is kind of dumb tbh.,0.49,borderline,False
+MSG00940,2024-07-28 04:15:47,Twitter,user_0198,"This is garbage, fix it already.",0.54,borderline,True
+MSG00941,2024-08-23 00:32:52,Telegram,user_0019,Get lost you absolute loser.,0.94,toxic,True
+MSG00942,2024-07-11 17:20:19,Reddit,user_0099,You are the worst person I've ever met.,0.98,toxic,True
+MSG00943,2024-10-03 23:46:41,Telegram,user_0018,"You are such an idiot, get out of here!",0.73,toxic,True
+MSG00944,2024-02-26 09:41:09,Facebook,user_0075,Thanks for the help earlier!,0.27,clean,False
+MSG00945,2024-05-12 11:02:52,Discord,user_0141,This is the worst app I've ever used.,0.49,borderline,False
+MSG00946,2024-02-29 02:37:27,Twitter,user_0027,Looking forward to the weekend.,0.07,clean,False
+MSG00947,2024-06-27 13:41:32,Twitter,user_0124,Thanks for the help earlier!,0.37,clean,False
+MSG00948,2024-10-12 23:38:06,Telegram,user_0155,I need help with this task.,0.1,clean,False
+MSG00949,2024-07-15 16:48:04,Telegram,user_0143,You dumb piece of trash.,0.9,toxic,True
+MSG00950,2024-05-28 21:20:17,Twitter,user_0061,I don't really like how this works.,0.41,borderline,False
+MSG00951,2024-08-11 11:28:39,YouTube,user_0146,I'm so frustrated with this product.,0.68,borderline,True
+MSG00952,2024-02-26 13:57:14,Discord,user_0094,You are the worst person I've ever met.,0.73,toxic,True
+MSG00953,2024-05-03 08:52:05,YouTube,user_0081,I finished the project early.,0.3,clean,False
+MSG00954,2024-05-18 08:35:15,YouTube,user_0141,The weather is really nice today.,0.23,clean,False
+MSG00955,2024-08-27 10:08:35,Twitter,user_0027,Why is everything always broken here?,0.41,borderline,False
+MSG00956,2024-12-25 08:13:00,Telegram,user_0028,"You make me sick, stop talking.",0.89,toxic,True
+MSG00957,2024-04-03 05:14:20,YouTube,user_0061,You are so freaking dumb it hurts.,0.79,toxic,True
+MSG00958,2024-11-14 17:56:16,YouTube,user_0031,Can you send me the report please?,0.27,clean,False
+MSG00959,2024-12-18 06:55:27,Discord,user_0112,I need help with this task.,0.25,clean,False
+MSG00960,2024-01-16 03:15:35,Facebook,user_0198,I don't really like how this works.,0.5,borderline,True
+MSG00961,2024-12-18 08:07:22,Twitter,user_0157,What time does the meeting start?,0.3,clean,False
+MSG00962,2024-11-08 22:53:27,Twitter,user_0063,I don't really like how this works.,0.47,borderline,False
+MSG00963,2024-12-23 16:09:09,YouTube,user_0010,This service is pretty bad honestly.,0.63,borderline,True
+MSG00964,2024-07-13 06:35:02,YouTube,user_0187,I need help with this task.,0.09,clean,False
+MSG00965,2024-01-22 17:20:56,Reddit,user_0014,Why is everything always broken here?,0.56,borderline,True
+MSG00966,2024-09-28 00:58:42,Facebook,user_0190,Can you send me the report please?,0.18,clean,False
+MSG00967,2024-06-01 13:46:11,Reddit,user_0196,Everyone thinks you're pathetic.,0.99,toxic,True
+MSG00968,2024-06-27 06:35:06,Facebook,user_0067,This service is pretty bad honestly.,0.66,borderline,True
+MSG00969,2024-07-09 09:38:14,YouTube,user_0079,Drop dead already you worthless jerk.,0.74,toxic,True
+MSG00970,2024-10-12 22:39:15,Facebook,user_0038,Please review my pull request.,0.12,clean,False
+MSG00971,2024-03-24 07:51:47,Telegram,user_0027,Your idea is kind of dumb tbh.,0.41,borderline,False
+MSG00972,2024-08-08 22:05:04,Twitter,user_0190,Great job on the presentation.,0.25,clean,False
+MSG00973,2024-11-01 11:19:36,Twitter,user_0166,You are the worst person I've ever met.,0.78,toxic,True
+MSG00974,2024-12-16 01:38:24,Reddit,user_0136,Get lost you absolute loser.,0.92,toxic,True
+MSG00975,2024-06-10 11:23:51,Discord,user_0131,Can we reschedule for tomorrow?,0.3,clean,False
+MSG00976,2024-05-20 11:32:30,Reddit,user_0200,I'm so frustrated with this product.,0.55,borderline,True
+MSG00977,2024-08-29 03:44:21,Reddit,user_0087,"Hey, how are you doing today?",0.34,clean,False
+MSG00978,2024-02-25 23:26:31,YouTube,user_0167,Great job on the presentation.,0.05,clean,False
+MSG00979,2024-09-22 14:58:22,Discord,user_0132,Why is everything always broken here?,0.64,borderline,True
+MSG00980,2024-07-15 03:29:54,Discord,user_0192,I can't stand your ugly face.,1.0,toxic,True
+MSG00981,2024-01-10 18:04:15,YouTube,user_0056,Please review my pull request.,0.05,clean,False
+MSG00982,2024-09-12 23:26:39,Discord,user_0187,Drop dead already you worthless jerk.,0.75,toxic,True
+MSG00983,2024-02-22 13:58:56,YouTube,user_0077,"You're beyond stupid, learn to think.",0.74,toxic,True
+MSG00984,2024-05-16 13:39:06,Reddit,user_0068,Shut up you stupid moron.,0.71,toxic,True
+MSG00985,2024-12-13 13:37:19,Twitter,user_0133,You are a total failure at everything.,0.91,toxic,True
+MSG00986,2024-07-14 22:43:15,YouTube,user_0082,Great job on the presentation.,0.05,clean,False
+MSG00987,2024-04-27 07:39:27,Reddit,user_0037,"I hate you so much, you're worthless.",0.94,toxic,True
+MSG00988,2024-04-08 12:54:51,YouTube,user_0046,Thanks for the help earlier!,0.24,clean,False
+MSG00989,2024-07-27 04:28:21,Reddit,user_0156,Let me know if you need anything.,0.23,clean,False
+MSG00990,2024-11-13 05:31:31,Telegram,user_0045,Thanks for the help earlier!,0.33,clean,False
+MSG00991,2024-12-09 09:59:14,Twitter,user_0193,What time does the meeting start?,0.38,clean,False
+MSG00992,2024-12-04 11:51:11,Facebook,user_0102,Go kill yourself nobody likes you.,0.97,toxic,True
+MSG00993,2024-11-03 22:40:37,Twitter,user_0145,Thanks for the help earlier!,0.33,clean,False
+MSG00994,2024-10-31 10:22:45,Twitter,user_0042,This service is pretty bad honestly.,0.49,borderline,False
+MSG00995,2024-01-14 12:46:24,Twitter,user_0156,The weather is really nice today.,0.1,clean,False
+MSG00996,2024-03-08 10:57:37,YouTube,user_0028,This is so freaking annoying!,0.67,borderline,True
+MSG00997,2024-01-22 22:48:45,Twitter,user_0122,I don't really like how this works.,0.41,borderline,False
+MSG00998,2024-04-01 05:18:56,Twitter,user_0154,Drop dead already you worthless jerk.,0.9,toxic,True
+MSG00999,2024-03-07 10:43:16,Twitter,user_0155,Great job on the presentation.,0.34,clean,False
+MSG01000,2024-08-06 01:14:49,YouTube,user_0004,This is the worst app I've ever used.,0.64,borderline,True
